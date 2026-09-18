@@ -20,8 +20,7 @@
 
 I operate at the **intersection of quantitative finance, AI infrastructure, and enterprise technology** — designing systems that bring rigorous models into production and deployable LLM stacks into organizations that need them most.
 
-- 📊 **Content & Research @ [Quant Finance Institute (QFI)](https://qfi.io)** — building curriculum for Time Series Analysis & Volatility Modelling; making stochastic processes legible
-- 🏢 **Senior Tech Advisor @ MT Group** — evaluating and recommending enterprise AI, cloud & on-prem infrastructure solutions across sectors
+- 🏢 **FDE @ MT Group** — evaluating and recommending enterprise AI, cloud & on-prem infrastructure solutions across sectors
 - 🤖 Designing **multi-agent agentic pipelines** with CrewAI to automate enterprise procurement workflows, end-to-end in the browser
 - 🏥 Researching **lightweight Transformers for ECG-based sleep apnea screening** — clinical-grade accuracy with edge-deployable compute (VIT · BCSE497J)
 - 🖥️ Deep focus on **local/on-prem LLM deployment** — inference optimization, RAG pipelines, and enterprise AI server benchmarking
@@ -76,22 +75,7 @@ I operate at the **intersection of quantitative finance, AI infrastructure, and 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C4CC&icon_color=1B4F72" width="47%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C4CC&langs_count=8" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=00C4CC&fire=1B4F72&currStreakLabel=00C4CC"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00C4CC&line=1B4F72&point=ffffff&area=true"/>
-</p>
-
----
 
 ## 🏆 Highlights
 
