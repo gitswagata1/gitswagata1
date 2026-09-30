@@ -23,12 +23,6 @@
 <img src="https://img.shields.io/badge/Amazon_WoW-2026_Scholar-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
 <img src="https://img.shields.io/badge/McKinsey_Forward-AI_%26_Digital-00A3E0?style=for-the-badge&logoColor=white" />
 
-<br/><br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=gitswagata1&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
-<a href="https://github.com/gitswagata1?tab=followers"><img src="https://img.shields.io/github/followers/gitswagata1?label=Followers&style=flat-square&color=0F172A" alt="Followers" /></a>
-<a href="https://github.com/gitswagata1?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-16-6C63FF?style=flat-square" alt="Repos" /></a>
 
 </div>
 
