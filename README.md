@@ -1,28 +1,42 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    SWAGATA BANERJEE — GITHUB PROFILE                -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=220&section=header&text=Swagata%20Banerjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Builder&descAlignY=55&descSize=20" width="100%" />
 
 <div align="center">
 
-<!-- HERO: Dynamic Typing SVG -->
+<!-- DYNAMIC TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Forward+Deployed+AI+Engineering+Manager;EdTech+Founder+%7C+1%2C000%2B+Users+Scaled;AWS+%26+GCP+Cloud+Architect;McKinsey+Forward+%7C+Amazon+WoW+Scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%94%A5+Forward+Deployed+AI+Engineering+Manager;%F0%9F%9A%80+EdTech+Founder+%E2%80%94+1%2C000%2B+Users+Scaled;%E2%98%81%EF%B8%8F+AWS+%26+GCP+Cloud+Architect;%F0%9F%8F%86+McKinsey+Forward+%7C+Amazon+WoW+Scholar;%F0%9F%94%AC+Medical+AI+Researcher+%40+VIT" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- VALUE PROPOSITION -->
-<samp><b>Building production AI systems at the intersection of enterprise infrastructure, agentic pipelines, and scalable EdTech.</b></samp>
+<!-- ONE-LINER -->
+<h3><samp>I build things that ship, scale, and sometimes don't crash.</samp></h3>
+
+<br/>
+
+<!-- QUICK STATS — compact two-row grid -->
+<table>
+<tr>
+<td align="center"><b>1,000+</b><br/><sub>Users Scaled</sub><br/><sup>ByGrowth Academy</sup></td>
+<td align="center"><b>15</b><br/><sub>Plants Automated</sub><br/><sup>MT Group AI</sup></td>
+<td align="center"><b>120+</b><br/><sub>GCP Labs</sub><br/><sup>80+ Skill Badges</sup></td>
+<td align="center"><b>Top 90</b><br/><sub>SIH National</sub><br/><sup>Smart India Hackathon</sup></td>
+</tr>
+</table>
+
+<!-- PROGRAM BADGES -->
+<img src="https://img.shields.io/badge/Amazon_WoW-2026_Scholar-FF9900?style=flat-square&logo=amazon&logoColor=white" />
+<img src="https://img.shields.io/badge/McKinsey_Forward-AI_%26_Digital-00A3E0?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Girl_Hackathon-Team_India-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/NPTEL-2x_Gold_Medalist-FFD700?style=flat-square&logoColor=black" />
 
 <br/><br/>
 
-<!-- QUICK STATS BAR -->
-<img src="https://img.shields.io/badge/1,000%2B_Users_Scaled-ByGrowth_Academy-6C63FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/15_Sourcing_Plants-Automated_with_AI-0F172A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/120%2B_GCP_Labs-80%2B_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_WoW-2026_Scholar-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
-<img src="https://img.shields.io/badge/McKinsey_Forward-AI_%26_Digital-00A3E0?style=for-the-badge&logoColor=white" />
-
+<!-- SOCIAL LINKS ROW -->
+<a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -285,26 +299,8 @@ QFI Question Bank        ██████████████████�
 
 <div align="center">
 
-<!-- SOCIAL LINKS -->
-<a href="https://sb-website-3-d.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/theswagata1">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:theswagata1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/gitswagata1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <samp><i>"The market is a stochastic process. So is good research. Ship anyway."</i></samp>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:6C63FF&height=80&section=footer" width="100%" />
