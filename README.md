@@ -1,5 +1,5 @@
 <!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:FF6B6B&height=230&section=header&text=Swagata%20Banerjee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=%E2%9A%A1%20AI%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Builder%20%E2%9A%A1&descAlignY=56&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,50:A855F7,100:FF6B6B&height=250&section=header&text=Swagata%20Banerjee&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20AI%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Builder%20%E2%9A%A1&descAlignY=58&descSize=20&stroke=A855F7&strokeWidth=1" width="100%" />
 
 <div align="center">
 
@@ -66,6 +66,10 @@
 
 ## `> whoami`
 
+<table>
+<tr>
+<td width="60%">
+
 ```js
 const swagata = {
     role:       "Forward Deployed Engineering Manager (Gen AI)",
@@ -73,9 +77,23 @@ const swagata = {
     founded:    "ByGrowth Academy — 1,000+ users",
     research:   "Lightweight Transformers for Medical AI @ VIT",
     education:  "B.Tech CSE, VIT Vellore — Class of 2027",
-    superpower: "Taking an idea from napkin sketch to production in one sprint",
+    superpower: "Napkin sketch → production in one sprint",
 };
 ```
+
+</td>
+<td width="40%">
+
+**Right now I'm...**
+
+- Shipping RAG v2 with streaming retrieval at MT Group
+- Integrating federated learning into BridgeUp
+- Optimizing a Transformer for edge ECG inference
+- Mentoring student builders through Lean In & iQuest
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -293,7 +311,9 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswagata1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitswagata1&theme=tokyonight" alt="Repos per Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gitswagata1&theme=tokyonight" alt="Most Commit Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gitswagata1&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 <br/>
 
@@ -305,18 +325,25 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 ## Currently Building
 
-```
-  ┌──────────────────────────────────────────────────────────────┐
-  │  MT Central Intelligence  ████████████████████░░  85%  🔥    │
-  │  BridgeUp v2              ██████████████░░░░░░░░  65%  🚧    │
-  │  ECG Transformer          ████████████░░░░░░░░░░  55%  🔬    │
-  │  QFI Question Bank        ██████████████████████  100% ✅    │
-  └──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| | Project | Progress | Status |
+|:-:|:--------|:---------|:------:|
+| :fire: | **MT Central Intelligence v2** — streaming RAG retrieval | `████████████████████░░` 85% | ![](https://img.shields.io/badge/-SHIPPING-brightgreen?style=flat-square) |
+| :construction: | **BridgeUp v2** — federated learning integration | `██████████████░░░░░░░░` 65% | ![](https://img.shields.io/badge/-BUILDING-A855F7?style=flat-square) |
+| :microscope: | **ECG Transformer** — edge quantization pipeline | `████████████░░░░░░░░░░` 55% | ![](https://img.shields.io/badge/-RESEARCH-00B4D8?style=flat-square) |
+| :white_check_mark: | **QFI Question Bank** — published & maintained | `██████████████████████` 100% | ![](https://img.shields.io/badge/-DONE-2EA043?style=flat-square) |
+
+</div>
 
 <br/>
 
 <div align="center">
+
+<!-- DEV QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<br/><br/>
 
 <samp><b><i>"The market is a stochastic process. So is good research. Ship anyway."</i></b></samp>
 
@@ -327,4 +354,4 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A855F7,100:6C63FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:A855F7,100:6C63FF&height=120&section=footer&stroke=A855F7&strokeWidth=1" width="100%" />
