@@ -41,64 +41,57 @@
 
 ---
 
-## Tech Stack Arsenal
+## Skill Tree
 
-```python
-class SwagataBanerjee:
-    def __init__(self):
-        self.languages    = ["Python", "C++", "TypeScript", "JavaScript", "R", "SQL", "Bash", "Kotlin"]
-        self.ai_stack     = ["PyTorch", "HuggingFace", "LangChain", "CrewAI", "Ollama", "Gemini API", "RAG"]
-        self.cloud        = ["AWS Lambda", "DynamoDB", "Cognito", "GCP", "Vertex AI", "Kubernetes", "Docker"]
-        self.databases    = ["DuckDB", "Supabase", "SAP"]
-        self.frontend     = ["React", "Node.js", "Pyodide/WASM"]
-        self.current_xp   = "shipping multi-agent RAG pipelines to production"
+```
+                          SWAGATA.EXE v2.7 — SYSTEM BOOT
+  ============================================================
+  [##############################] 100%  Languages loaded
+  [##############################] 100%  AI arsenal armed
+  [##############################] 100%  Cloud infra online
+  [##############################] 100%  Databases mounted
+  ============================================================
+  STATUS: ALL SYSTEMS OPERATIONAL          THREAT LEVEL: DEPLOY
 ```
 
-<table>
-<tr><td>
+<div align="center">
 
-**`> languages --installed`**
+### `LANGUAGES` — *choose your weapon*
 
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,r" />
-<br/>
-<img src="https://skillicons.dev/icons?i=bash,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,js,r,bash,kotlin&perline=7&theme=dark" />
 
-</td><td>
+### `AI / ML` — *the big guns*
 
-**`> ai_stack --loaded`**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=7&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=pytorch" />
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0F172A?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/%F0%9F%9A%80_CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/%F0%9F%A6%99_Ollama-000000?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/%E2%9C%A8_Gemini_API-8E75B2?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/%F0%9F%94%8D_RAG_Pipelines-0F172A?style=for-the-badge&logoColor=white)
 
-</td></tr>
-<tr><td>
+### `CLOUD & INFRA` — *where code goes to live*
 
-**`> cloud --deploy`**
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes&perline=7&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+![Lambda](https://img.shields.io/badge/%E2%9A%A1_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Cognito](https://img.shields.io/badge/%F0%9F%94%90_Cognito-DD344C?style=for-the-badge&logoColor=white)
+![API GW](https://img.shields.io/badge/%F0%9F%8C%90_API_Gateway-FF4F8B?style=for-the-badge&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/%F0%9F%A7%A0_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![API GW](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+### `TOOLS & DATA` — *daily drivers*
 
-</td><td>
+<img src="https://skillicons.dev/icons?i=react,nodejs,supabase,git,linux,vscode&perline=7&theme=dark" />
 
-**`> tools --favorites`**
+![DuckDB](https://img.shields.io/badge/%F0%9F%A6%86_DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![SAP](https://img.shields.io/badge/%F0%9F%8F%AD_SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![WASM](https://img.shields.io/badge/%F0%9F%94%AE_Pyodide%2FWASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![NumPy](https://img.shields.io/badge/%F0%9F%94%A2_NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/%F0%9F%90%BC_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,supabase,git,linux,vscode" />
-
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![WASM](https://img.shields.io/badge/Pyodide/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white)
-
-</td></tr>
-</table>
+</div>
 
 ---
 
