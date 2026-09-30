@@ -1,98 +1,317 @@
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║  GitHub Profile README — Swagata Banerjee ║ -->
-<!-- ║  Replace YOUR-GITHUB-USERNAME everywhere  ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                    SWAGATA BANERJEE — GITHUB PROFILE                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<!-- Header -->
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A2342,50:1B4F72,100:00C4CC&height=200&section=header&text=Swagata%20Banerjee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quant%20Finance%20%C2%B7%20AI%20%26%20LLM%20Infrastructure%20%C2%B7%20Business%20Development&descAlignY=57&descSize=19)](https://github.com/YOUR-GITHUB-USERNAME)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=680&lines=Building+at+the+intersection+of+Quant+Finance+%26+AI+%F0%9F%93%88;On-prem+%26+Cloud+LLM+Infrastructure+for+Enterprise+%F0%9F%96%A5%EF%B8%8F;Agentic+Workflows+%C2%B7+Multi-Agent+Systems+%F0%9F%A4%96;Volatility+Modelling+%C2%B7+Time+Series+Analysis+%F0%9F%93%8A;Lightweight+Transformers+for+Medical+AI+%F0%9F%8F%A5)](https://github.com/YOUR-GITHUB-USERNAME)
+<!-- HERO: Dynamic Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Forward+Deployed+AI+Engineering+Manager;EdTech+Founder+%7C+1%2C000%2B+Users+Scaled;AWS+%26+GCP+Cloud+Architect;McKinsey+Forward+%7C+Amazon+WoW+Scholar" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=00C4CC"/>
-</p>
+<br/>
+
+<!-- VALUE PROPOSITION -->
+<samp><b>Building production AI systems at the intersection of enterprise infrastructure, agentic pipelines, and scalable EdTech.</b></samp>
+
+<br/><br/>
+
+<!-- QUICK STATS BAR -->
+<img src="https://img.shields.io/badge/1,000%2B_Users_Scaled-ByGrowth_Academy-6C63FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/15_Sourcing_Plants-Automated_with_AI-0F172A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/120%2B_GCP_Labs-80%2B_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_WoW-2026_Scholar-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+<img src="https://img.shields.io/badge/McKinsey_Forward-AI_%26_Digital-00A3E0?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=gitswagata1&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/gitswagata1?tab=followers"><img src="https://img.shields.io/github/followers/gitswagata1?label=Followers&style=flat-square&color=0F172A" alt="Followers" /></a>
+<a href="https://github.com/gitswagata1?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-16-6C63FF?style=flat-square" alt="Repos" /></a>
+
+</div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
-I operate at the **intersection of quantitative finance, AI infrastructure, and enterprise technology** — designing systems that bring rigorous models into production and deployable LLM stacks into organizations that need them most.
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
-- 🏢 **FDE @ MT Group** — evaluating and recommending enterprise AI, cloud & on-prem infrastructure solutions across sectors
-- 🤖 Designing **multi-agent agentic pipelines** with CrewAI to automate enterprise procurement workflows, end-to-end in the browser
-- 🏥 Researching **lightweight Transformers for ECG-based sleep apnea screening** — clinical-grade accuracy with edge-deployable compute (VIT · BCSE497J)
-- 🖥️ Deep focus on **local/on-prem LLM deployment** — inference optimization, RAG pipelines, and enterprise AI server benchmarking
-- 📈 Fluent in the language of volatility — ARIMA, GARCH, stochastic vol, options pricing, the whole surface
-- 🧩 Currently finishing a degree with coursework spanning tech and the humanities
+- **Forward Deployed Engineering Manager (Gen AI)** at **Micro Turners Group** — shipping RAG pipelines, DuckDB + LLM retrieval, and multi-agent procurement automation across 15 sourcing plants
+- **Founder of [ByGrowth Academy](https://sb-website-3-d.vercel.app/)** — scaled an EdTech platform to **1,000+ active users** from scratch
+- **Research Contributor** at VIT — lightweight Transformers for ECG-based sleep apnea screening, optimized for edge deployment
+- **B.Tech CSE @ VIT Vellore** (Class of 2027) — coursework spanning distributed systems, quantitative finance, and AI/ML
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack Arsenal
 
-**Languages**
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**AI & LLM Infrastructure**
+</details>
 
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FF6B35?style=for-the-badge)
+<details open>
+<summary><b>AI / ML & Data Engineering</b></summary>
+<br/>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-4A00E0?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00C4CC?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-1A1A1A?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-1B4F72?style=for-the-badge)
-
-**Quantitative Finance**
-
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0F172A?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-0A2342?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 
-**Infrastructure & Tools**
+</details>
 
+<details open>
+<summary><b>Cloud Infrastructure & Serverless</b></summary>
+<br/>
+
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>Databases & Developer Tools</b></summary>
+<br/>
+
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Pyodide](https://img.shields.io/badge/Pyodide_/_WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | What it is |
-|---------|------------|
-| 🤖 **CrewAI Procurement Automation** | Browser-based two-agent system automating enterprise procurement workflows end-to-end — research agent + decision agent, no human in the loop |
-| 🏥 **ECG Sleep Apnea Screening** | Lightweight Transformer for non-invasive sleep apnea detection from single-lead ECG — optimized for edge deployment; VIT BCSE497J research |
-| 📈 **QFI Question Bank — Time Series & Volatility** | Structured, exam-ready question bank for the Quant Finance Institute covering ARIMA/SARIMA, GARCH family models, stochastic volatility, and options pricing |
-| 🖥️ **Enterprise LLM Infrastructure Benchmarks** | Comparative evaluation of on-prem vs cloud LLM deployments (latency, throughput, TCO) for MT Group enterprise clients |
+<table>
+<tr>
+
+<!-- PROJECT 1: MT Central Intelligence Platform -->
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/-Enterprise_AI-FF6B6B?style=flat-square" /> MT Central Intelligence Platform
+
+**Forward Deployed @ Micro Turners Group**
+
+Production-grade enterprise intelligence platform powering AI-driven procurement across **15 sourcing plants**. Multi-agent architecture with CrewAI for automated vendor research and decision-making.
+
+`Architecture Highlights:`
+- RAG pipelines with DuckDB + LLM retrieval layer
+- Multi-agent procurement automation (research agent + decision agent)
+- On-prem & cloud LLM deployment benchmarking (latency, throughput, TCO)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B6B?style=flat-square)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+
+<!-- PROJECT 2: BridgeUp -->
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/-EdTech_AI-6C63FF?style=flat-square" /> BridgeUp
+
+**Adaptive Python Learning Platform**
+
+Browser-native Python execution via **Pyodide/WASM** with adaptive learning paths powered by **Federated Learning with Differential Privacy**. Real-time code evaluation without server-side compute.
+
+`Architecture Highlights:`
+- In-browser Python execution (Pyodide/WebAssembly)
+- Federated learning for personalized difficulty scaling
+- Differential privacy guarantees on learner data
+- Supabase backend with real-time subscriptions
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![WASM](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+
+<!-- PROJECT 3: 1% Better Everyday -->
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/-Serverless-FF9900?style=flat-square" /> 1% Better Everyday
+
+**Serverless Habit Tracking Platform**
+
+Fully serverless habit platform built on **AWS event-driven architecture**. Zero cold-start optimization with provisioned concurrency and DynamoDB single-table design for sub-10ms reads.
+
+`Architecture Highlights:`
+- AWS Lambda + API Gateway (event-driven REST)
+- DynamoDB single-table design with GSI patterns
+- Cognito-based auth with federated identity
+- CI/CD pipeline with infrastructure as code
+
+![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Cognito](https://img.shields.io/badge/-Cognito-DD344C?style=flat-square)
+![API Gateway](https://img.shields.io/badge/-API_GW-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+
+<!-- PROJECT 4: ECG Sleep Apnea Screening -->
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/-Medical_AI-00B4D8?style=flat-square" /> ECG Sleep Apnea Screening
+
+**VIT Research — BCSE497J**
+
+Lightweight Transformer architecture for **non-invasive sleep apnea detection** from single-lead ECG signals. Optimized for edge deployment on resource-constrained medical devices.
+
+`Architecture Highlights:`
+- Custom lightweight Transformer encoder
+- Single-lead ECG signal processing pipeline
+- Edge-optimized inference (model quantization + pruning)
+- Clinical-grade evaluation metrics (sensitivity/specificity)
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
+## Leadership & Recognition
 
+<table>
+<tr>
+<td align="center" width="25%">
 
-## 🏆 Highlights
+**Amazon WoW**<br/>2026 Scholar<br/>
+<img src="https://img.shields.io/badge/-Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white" />
 
-- 📚 **Content Lead** — QFI Time Series Analysis & Volatility Modelling curriculum
-- 🏢 **Enterprise AI Evaluator** — MT Group (cloud + on-prem LLM infrastructure recommendations)
-- 🔬 **Research Contributor** — VIT BCSE497J lightweight Transformer for medical AI
-- 🤝 **Agentic Systems Builder** — real-world multi-agent procurement automation with CrewAI
+</td>
+<td align="center" width="25%">
+
+**McKinsey Forward**<br/>AI & Digital Program<br/>
+<img src="https://img.shields.io/badge/-McKinsey-00A3E0?style=flat-square&logoColor=white" />
+
+</td>
+<td align="center" width="25%">
+
+**Google Girl Hackathon**<br/>Team India<br/>
+<img src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+</td>
+<td align="center" width="25%">
+
+**Smart India Hackathon**<br/>Top 90 Nationally<br/>
+<img src="https://img.shields.io/badge/-SIH-FF6B6B?style=flat-square&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+| Role | Organization | Impact |
+|:-----|:-------------|:-------|
+| **Founder** | ByGrowth Academy | Scaled to **1,000+ active users**; end-to-end product, growth, and tech |
+| **Chairperson** | Innovators Quest, VIT | Led flagship tech fest with **500+ participants** across competitive tracks |
+| **Owner** | Gen Z Leadership Circle | Building a cross-campus community of student leaders and founders |
+| **Project Lead** | Lean In, VIT | Directed technical projects and mentorship programs for women in tech |
+| **Content Lead** | QFI Curriculum | Authored exam-ready material on ARIMA, GARCH, stochastic vol, and options pricing |
+| **GCP Arcade Facilitator** | Google Cloud | Completed **120+ labs** and earned **80+ skill badges** across cloud & ML tracks |
+| **2x Gold Medalist** | NPTEL | Top performer in nationally certified technical courses |
 
 ---
 
-## 🐍 Contribution Snake
+## GitHub Analytics
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake-dark.svg)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="Streak Stats" />
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswagata1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+
+</div>
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswagata1&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-*"The market is a stochastic process. So is good research."* 📈
+## Currently Building
 
-<!-- Footer -->
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,50:1B4F72,100:0A2342&height=120&section=footer)](https://github.com/YOUR-GITHUB-USERNAME)
+```text
+MT Central Intelligence  ████████████████████░░  85%  — RAG v2 with streaming retrieval
+BridgeUp v2              ██████████████░░░░░░░░  65%  — Federated learning integration
+ECG Transformer          ████████████░░░░░░░░░░  55%  — Edge quantization pipeline
+QFI Question Bank        ██████████████████████  100% — Published & maintained
+```
+
+---
+
+<div align="center">
+
+<!-- SOCIAL LINKS -->
+<a href="https://sb-website-3-d.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/theswagata1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:theswagata1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/gitswagata1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<samp><i>"The market is a stochastic process. So is good research. Ship anyway."</i></samp>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
+
+</div>
