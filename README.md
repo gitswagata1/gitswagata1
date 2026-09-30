@@ -58,38 +58,50 @@
 
 ### `LANGUAGES` — *choose your weapon*
 
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,js,r,bash,kotlin&perline=7&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### `AI / ML` — *the big guns*
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=7&theme=dark" />
-
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/%F0%9F%9A%80_CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/%F0%9F%A6%99_Ollama-000000?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/%E2%9C%A8_Gemini_API-8E75B2?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/%F0%9F%94%8D_RAG_Pipelines-0F172A?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0F172A?style=for-the-badge&logoColor=white)
 
 ### `CLOUD & INFRA` — *where code goes to live*
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes&perline=7&theme=dark" />
-
-![Lambda](https://img.shields.io/badge/%E2%9A%A1_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Cognito](https://img.shields.io/badge/%F0%9F%94%90_Cognito-DD344C?style=for-the-badge&logoColor=white)
-![API GW](https://img.shields.io/badge/%F0%9F%8C%90_API_Gateway-FF4F8B?style=for-the-badge&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/%F0%9F%A7%A0_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### `TOOLS & DATA` — *daily drivers*
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,supabase,git,linux,vscode&perline=7&theme=dark" />
-
-![DuckDB](https://img.shields.io/badge/%F0%9F%A6%86_DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![SAP](https://img.shields.io/badge/%F0%9F%8F%AD_SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![WASM](https://img.shields.io/badge/%F0%9F%94%AE_Pyodide%2FWASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-![NumPy](https://img.shields.io/badge/%F0%9F%94%A2_NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/%F0%9F%90%BC_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WASM](https://img.shields.io/badge/Pyodide%2FWASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
