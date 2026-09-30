@@ -14,8 +14,6 @@
 
 <br/>
 
-<br/>
-
 <!-- IMPACT NUMBERS -->
 <table>
 <tr>
@@ -101,6 +99,7 @@ const swagata = {
 ### `LANGUAGES` — *choose your weapon*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -114,6 +113,7 @@ const swagata = {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0F172A?style=for-the-badge&logoColor=white)
 
 ### `CLOUD & INFRA` — *where code goes to live*
@@ -124,14 +124,17 @@ const swagata = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### `TOOLS & DATA` — *daily drivers*
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![WASM](https://img.shields.io/badge/Pyodide%2FWASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -145,7 +148,7 @@ const swagata = {
 
 <td width="50%" valign="top">
 
-<h3 align="center">MT Central Intelligence Platform</h3>
+<h3 align="center"><a href="https://github.com/gitswagata1">MT Central Intelligence Platform</a></h3>
 <p align="center"><sub><b>Enterprise AI | Forward Deployed @ MT Group</b></sub></p>
 
 <p align="center">
@@ -167,12 +170,13 @@ Production-grade intelligence platform powering AI-driven procurement across **1
 
 <td width="50%" valign="top">
 
-<h3 align="center">BridgeUp</h3>
+<h3 align="center"><a href="https://github.com/gitswagata1/bridgeup">BridgeUp</a></h3>
 <p align="center"><sub><b>EdTech AI | Adaptive Python Learning</b></sub></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-BETA-A855F7?style=flat-square" />
 <img src="https://img.shields.io/badge/ARCH-Federated_Learning-6C63FF?style=flat-square" />
+<a href="https://github.com/gitswagata1/bridgeup/actions"><img src="https://img.shields.io/github/actions/workflow/status/gitswagata1/bridgeup/ci.yml?style=flat-square&label=CI" /></a>
 </p>
 
 Browser-native Python execution via **Pyodide/WASM** with adaptive learning paths powered by **Federated Learning with Differential Privacy**. Zero server-side compute.
@@ -192,12 +196,13 @@ Browser-native Python execution via **Pyodide/WASM** with adaptive learning path
 
 <td width="50%" valign="top">
 
-<h3 align="center">1% Better Everyday</h3>
+<h3 align="center"><a href="https://github.com/gitswagata1/1per-Better-Everyday-with-sb">1% Better Everyday</a></h3>
 <p align="center"><sub><b>Serverless | AWS Event-Driven Habits</b></sub></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square" />
 <img src="https://img.shields.io/badge/LATENCY-<10ms-FF9900?style=flat-square" />
+<a href="https://github.com/gitswagata1/1per-Better-Everyday-with-sb/actions"><img src="https://img.shields.io/github/actions/workflow/status/gitswagata1/1per-Better-Everyday-with-sb/ci.yml?style=flat-square&label=CI" /></a>
 </p>
 
 Fully serverless habit platform on **AWS event-driven architecture**. DynamoDB single-table design for sub-10ms reads, Cognito auth, zero cold-start Lambda optimization.
@@ -209,6 +214,50 @@ Fully serverless habit platform on **AWS event-driven architecture**. DynamoDB s
 ![Cognito](https://img.shields.io/badge/-Cognito-DD344C?style=flat-square)
 ![API GW](https://img.shields.io/badge/-API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/gitswagata1/satvic-ai-dubbing">Satvic AI Dubbing</a></h3>
+<p align="center"><sub><b>AI Pipeline | Hindi to Regional Languages</b></sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-SHIPPED-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/COST-₹0_Open_Source-2EA043?style=flat-square" />
+</p>
+
+AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voice. Fully open-source stack — Whisper for transcription, Demucs for source separation, IndicF5 for voice cloning.
+
+> Whisper + Demucs + IndicF5 + ffmpeg — zero API cost
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![ffmpeg](https://img.shields.io/badge/-ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![MIT](https://img.shields.io/badge/-MIT-yellow?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/gitswagata1/AIGENDA">AIGENDA</a></h3>
+<p align="center"><sub><b>AI Tool | Invoice Analyzer</b></sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/EVENT-GraVITas_'24-6C63FF?style=flat-square" />
+</p>
+
+AI-powered invoice analyzer using **Gemini Vision API** — extract and process invoice data from images. Built for GraVITas '24 hackathon.
+
+> Gemini multimodal + Streamlit UI + image-to-data pipeline
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 
@@ -239,39 +288,23 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 ## Leadership & Recognition
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img width="50" src="https://img.icons8.com/color/48/amazon.png" alt="amazon"/><br/>
-<b>Amazon WoW</b><br/><sub>2026 Scholar</sub>
-</td>
-<td align="center" width="20%">
-<img width="50" src="https://img.icons8.com/color/48/google-logo.png" alt="google"/><br/>
-<b>Google GHH</b><br/><sub>Team India</sub>
-</td>
-<td align="center" width="20%">
-<img width="50" src="https://img.icons8.com/color/48/briefcase.png" alt="mckinsey"/><br/>
-<b>McKinsey Fwd</b><br/><sub>AI & Digital</sub>
-</td>
-<td align="center" width="20%">
-<img width="50" src="https://img.icons8.com/color/48/india.png" alt="sih"/><br/>
-<b>SIH</b><br/><sub>Top 90 National</sub>
-</td>
-<td align="center" width="20%">
-<img width="50" src="https://img.icons8.com/color/48/gold-medal.png" alt="nptel"/><br/>
-<b>NPTEL</b><br/><sub>2x Gold Medalist</sub>
-</td>
-</tr>
-</table>
+<div align="center">
 
-| | Role | Organization | What I Did |
-|:-:|:-----|:-------------|:-----------|
-| :fire: | **Founder** | ByGrowth Academy | Built from zero to **1,000+ active users** — product, growth, eng |
-| :crown: | **Chairperson** | Innovators Quest, VIT | Ran the flagship tech fest — **500+ participants**, multi-track |
-| :globe_with_meridians: | **Owner** | Gen Z Leadership Circle | Cross-campus community of student founders & leaders |
-| :woman_technologist: | **Project Lead** | Lean In, VIT | Technical projects + mentorship programs for women in tech |
-| :chart_with_upwards_trend: | **Content Lead** | QFI Curriculum | ARIMA, GARCH, stochastic vol, options pricing — the full syllabus |
-| :cloud: | **GCP Facilitator** | Google Cloud | **120+ labs**, **80+ badges** across cloud & ML tracks |
+| | Role | Where | Impact |
+|:-:|:-----|:------|:-------|
+| <img width="20" src="https://img.icons8.com/color/48/amazon.png"/> | **Amazon WoW 2026 Scholar** | Amazon | Selected for Women of the World program |
+| <img width="20" src="https://img.icons8.com/color/48/briefcase.png"/> | **McKinsey Forward** | McKinsey & Co | AI & Digital leadership program |
+| <img width="20" src="https://img.icons8.com/color/48/google-logo.png"/> | **Google Girl Hackathon** | Google | Team India representative |
+| <img width="20" src="https://img.icons8.com/color/48/india.png"/> | **Smart India Hackathon** | Govt. of India | Top 90 nationally |
+| <img width="20" src="https://img.icons8.com/color/48/gold-medal.png"/> | **2x Gold Medalist** | NPTEL | Top performer, national certification |
+| :fire: | **Founder** | ByGrowth Academy | Zero to **1,000+ active users** — product, growth, eng |
+| :crown: | **Chairperson** | Innovators Quest, VIT | Flagship tech fest — **500+ participants**, multi-track |
+| :globe_with_meridians: | **Owner** | Gen Z Leadership Circle | Cross-campus community of student founders |
+| :woman_technologist: | **Project Lead** | Lean In, VIT | Technical projects + mentorship for women in tech |
+| :chart_with_upwards_trend: | **Content Lead** | QFI Curriculum | ARIMA, GARCH, stochastic vol, options pricing |
+| :cloud: | **GCP Facilitator** | Google Cloud | **120+ labs**, **80+ badges** across cloud & ML |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -296,6 +329,14 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitswagata1&theme=tokyonight" alt="Contribution Graph" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
@@ -309,6 +350,7 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 | :fire: | **MT Central Intelligence v2** — streaming RAG retrieval | `████████████████████░░` 85% | ![](https://img.shields.io/badge/-SHIPPING-brightgreen?style=flat-square) |
 | :construction: | **BridgeUp v2** — federated learning integration | `██████████████░░░░░░░░` 65% | ![](https://img.shields.io/badge/-BUILDING-A855F7?style=flat-square) |
 | :microscope: | **ECG Transformer** — edge quantization pipeline | `████████████░░░░░░░░░░` 55% | ![](https://img.shields.io/badge/-RESEARCH-00B4D8?style=flat-square) |
+| :studio_microphone: | **Satvic AI Dubbing** — more Indian languages | `███████████████████░░░` 80% | ![](https://img.shields.io/badge/-EXPANDING-FF9900?style=flat-square) |
 | :white_check_mark: | **QFI Question Bank** — published & maintained | `██████████████████████` 100% | ![](https://img.shields.io/badge/-DONE-2EA043?style=flat-square) |
 
 </div>
@@ -323,6 +365,10 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <img src="https://img.shields.io/badge/Open_to-Collaborations_on_AI_%26_Cloud-A855F7?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Let's_Talk-Enterprise_AI_%7C_EdTech_%7C_Research-FF6B6B?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gitswagata1&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
