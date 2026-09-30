@@ -10,7 +10,7 @@
 
 <br/>
 
-<h3><samp>I build things that ship, scale, and sometimes don't crash.</samp></h3>
+<h3><samp>Turning caffeine into production-grade AI since 2023.</samp></h3>
 
 <br/>
 
