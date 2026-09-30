@@ -64,6 +64,61 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## Player Stats
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ⚔️  PLAYER: Swagata Banerjee              CLASS: AI Engineer     ║
+║   🏰  GUILD:  Micro Turners Group           RANK:  Eng. Manager   ║
+║   🎓  ORIGIN: VIT Vellore                   LEVEL: ██████░ Lv.27  ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   STR ████████████████████░░░░  82   [ Enterprise AI Systems  ]   ║
+║   INT █████████████████████░░░  88   [ Research & Algorithms  ]   ║
+║   DEX ██████████████████░░░░░░  75   [ Full-Stack Shipping    ]   ║
+║   WIS █████████████████████░░░  86   [ Cloud Architecture     ]   ║
+║   CHA ████████████████████████  95   [ Leadership & Community ]   ║
+║   LCK ██████████████████████░░  90   [ Hackathon Streak       ]   ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   🏆 ACHIEVEMENTS UNLOCKED                                        ║
+║   ┌──────────────────────────────────────────────────────────┐    ║
+║   │  ✅ Founded ByGrowth Academy        → 1,000+ users       │    ║
+║   │  ✅ Amazon WoW 2026 Scholar         → elite program       │    ║
+║   │  ✅ McKinsey Forward AI & Digital   → global cohort       │    ║
+║   │  ✅ Google Girl Hackathon           → Team India          │    ║
+║   │  ✅ Smart India Hackathon           → Top 90 national     │    ║
+║   │  ✅ NPTEL 2x Gold Medalist          → top performer       │    ║
+║   │  ✅ GCP Arcade Facilitator          → 120+ labs cleared   │    ║
+║   │  ✅ Shipped RAG to production       → 15 plants live      │    ║
+║   │  🔒 GSoC Contributor               → [IN PROGRESS]       │    ║
+║   │  🔒 1M Users                        → [LOCKED]            │    ║
+║   └──────────────────────────────────────────────────────────┘    ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   📦 INVENTORY                                                     ║
+║   [ Python ][ C++ ][ TypeScript ][ React ][ Node.js ][ SQL ]     ║
+║   [ PyTorch ][ LangChain ][ CrewAI ][ Ollama ][ Gemini API ]     ║
+║   [ AWS Lambda ][ DynamoDB ][ GCP ][ Kubernetes ][ Docker ]      ║
+║   [ DuckDB ][ Supabase ][ SAP ][ Pyodide/WASM ]                  ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   🎯 ACTIVE QUESTS                                                 ║
+║   ├─ 🔥 MT Central Intelligence v2    ░░░░░░░░████████████  85%   ║
+║   ├─ 🚧 BridgeUp Federated Learning   ░░░░░░░░░░░████████  65%   ║
+║   ├─ 🔬 ECG Transformer Edge Deploy   ░░░░░░░░░░░░░██████  55%   ║
+║   └─ ✅ QFI Question Bank             ████████████████████  DONE  ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## `> whoami`
 
 ```js
@@ -302,19 +357,6 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Currently Building
-
-```
-  ┌──────────────────────────────────────────────────────────────┐
-  │  MT Central Intelligence  ████████████████████░░  85%  🔥    │
-  │  BridgeUp v2              ██████████████░░░░░░░░  65%  🚧    │
-  │  ECG Transformer          ████████████░░░░░░░░░░  55%  🔬    │
-  │  QFI Question Bank        ██████████████████████  100% ✅    │
-  └──────────────────────────────────────────────────────────────┘
-```
-
-<br/>
 
 <div align="center">
 
