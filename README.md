@@ -10,7 +10,7 @@
 
 <br/>
 
-<h3><samp>Turning caffeine into production-grade AI since 2023.</samp></h3>
+<h3><samp>I don't just build AI — I deploy it where it matters.</samp></h3>
 
 <br/>
 
