@@ -257,7 +257,7 @@ Lightweight Transformer architecture for **non-invasive sleep apnea detection** 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="Streak Stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="Streak Stats" />
 
 <br/>
 
@@ -265,9 +265,9 @@ Lightweight Transformer architecture for **non-invasive sleep apnea detection** 
 
 </div>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- PROFILE SUMMARY CARDS -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswagata1&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitswagata1&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 ---
