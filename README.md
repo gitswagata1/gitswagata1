@@ -317,11 +317,6 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <div align="center">
 
-<!-- DEV QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-<br/><br/>
-
 <samp><b><i>"The market is a stochastic process. So is good research. Ship anyway."</i></b></samp>
 
 <br/><br/>
