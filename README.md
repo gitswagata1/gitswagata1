@@ -14,10 +14,7 @@
 
 <br/>
 
-<!-- TROPHY SHELF -->
-<img src="https://github-profile-trophy.vercel.app/?username=gitswagata1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
-<br/><br/>
+<br/>
 
 <!-- IMPACT NUMBERS -->
 <table>
