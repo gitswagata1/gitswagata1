@@ -1,16 +1,8 @@
-<!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:FF6B6B&height=250&section=header&text=Swagata%20Banerjee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=FDE%20%C2%B7%20Founder%20%C2%B7%20Builder&descAlignY=55&descSize=20" width="100%" />
-
 <div align="center">
 
-<!-- DYNAMIC TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Forward+Deployed+AI+Engineering+Manager;EdTech+Founder+%E2%80%94+1%2C000%2B+Users;AWS+%2B+GCP+Cloud+Architect;Medical+AI+Researcher+%40+VIT" alt="Typing SVG" />
-</a>
+# Swagata Banerjee
 
-<br/>
-
-<h3><samp>I don't just build AI — I deploy it where it matters.</samp></h3>
+**Forward Deployed Engineering Manager (Gen AI) · Founder · Builder**
 
 <br/>
 
@@ -38,7 +30,7 @@ Founded **ByGrowth Academy**, an EdTech platform scaled to **1,000+ active users
 
 ---
 
-## Skill Tree
+## Tech Stack
 
 <div align="center">
 
@@ -252,10 +244,6 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 <a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/Reach_out_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Or-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=gitswagata1&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
