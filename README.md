@@ -15,30 +15,11 @@
 <br/>
 
 <!-- IMPACT NUMBERS -->
-<table>
-<tr>
-<td align="center">
-<img width="60" src="https://img.icons8.com/nolan/64/rocket.png" alt="rocket"/><br/>
-<b>1,000+</b><br/><sub>Users Scaled</sub><br/><sup><i>ByGrowth Academy</i></sup>
-</td>
-<td align="center">
-<img width="60" src="https://img.icons8.com/nolan/64/factory.png" alt="factory"/><br/>
-<b>15</b><br/><sub>Plants Automated</sub><br/><sup><i>MT Group AI</i></sup>
-</td>
-<td align="center">
-<img width="60" src="https://img.icons8.com/nolan/64/cloud.png" alt="cloud"/><br/>
-<b>120+</b><br/><sub>GCP Labs</sub><br/><sup><i>80+ Skill Badges</i></sup>
-</td>
-<td align="center">
-<img width="60" src="https://img.icons8.com/nolan/64/trophy.png" alt="trophy"/><br/>
-<b>Top 90</b><br/><sub>SIH National</sub><br/><sup><i>Smart India Hackathon</i></sup>
-</td>
-<td align="center">
-<img width="60" src="https://img.icons8.com/nolan/64/medal2.png" alt="medal"/><br/>
-<b>2x Gold</b><br/><sub>NPTEL Medalist</sub><br/><sup><i>National Certified</i></sup>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/1,000%2B_Users-ByGrowth_Academy-6C63FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/15_Plants-MT_Group_AI-0F172A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/120%2B_GCP_Labs-80%2B_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Top_90-SIH_National-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/2x_Gold-NPTEL-FFD700?style=for-the-badge&logoColor=black" />
 
 <!-- PROGRAM BADGES -->
 ![Amazon WoW](https://img.shields.io/badge/Amazon_WoW-2026_Scholar-FF9900?style=flat-square&logo=amazon&logoColor=white)
