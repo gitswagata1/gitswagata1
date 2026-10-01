@@ -50,8 +50,6 @@
 
 <!-- CONNECT -->
 <a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white" /></a>
-<a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -72,7 +70,6 @@ const swagata = {
     founded:    "ByGrowth Academy — 1,000+ users",
     research:   "Lightweight Transformers for Medical AI @ VIT",
     education:  "B.Tech CSE, VIT Vellore — Class of 2027",
-    superpower: "Napkin sketch → production in one sprint",
 };
 ```
 
@@ -135,7 +132,7 @@ const swagata = {
 
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/gitswagata1">MT Central Intelligence Platform</a></h3>
+<h3 align="center">MT Central Intelligence Platform</h3>
 <p align="center"><sub><b>Enterprise AI | Forward Deployed @ MT Group</b></sub></p>
 
 <p align="center">
