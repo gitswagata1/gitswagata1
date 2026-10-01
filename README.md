@@ -96,46 +96,33 @@ const swagata = {
 
 <div align="center">
 
-### `LANGUAGES` — *choose your weapon*
+### `LANGUAGES`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### `AI / ML` — *the big guns*
+### `AI / ML`
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0F172A?style=for-the-badge&logoColor=white)
 
-### `CLOUD & INFRA` — *where code goes to live*
+### `CLOUD & INFRA`
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### `TOOLS & DATA` — *daily drivers*
+### `TOOLS & DATA`
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![WASM](https://img.shields.io/badge/Pyodide%2FWASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -177,6 +164,7 @@ Production-grade intelligence platform powering AI-driven procurement across **1
 <img src="https://img.shields.io/badge/STATUS-BETA-A855F7?style=flat-square" />
 <img src="https://img.shields.io/badge/ARCH-Federated_Learning-6C63FF?style=flat-square" />
 <a href="https://github.com/gitswagata1/bridgeup/actions"><img src="https://img.shields.io/github/actions/workflow/status/gitswagata1/bridgeup/ci.yml?style=flat-square&label=CI" /></a>
+<a href="https://gitswagata1.github.io/bridgeup/"><img src="https://img.shields.io/badge/DEMO-Live-6C63FF?style=flat-square" /></a>
 </p>
 
 Browser-native Python execution via **Pyodide/WASM** with adaptive learning paths powered by **Federated Learning with Differential Privacy**. Zero server-side compute.
@@ -203,6 +191,7 @@ Browser-native Python execution via **Pyodide/WASM** with adaptive learning path
 <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square" />
 <img src="https://img.shields.io/badge/LATENCY-<10ms-FF9900?style=flat-square" />
 <a href="https://github.com/gitswagata1/1per-Better-Everyday-with-sb/actions"><img src="https://img.shields.io/github/actions/workflow/status/gitswagata1/1per-Better-Everyday-with-sb/ci.yml?style=flat-square&label=CI" /></a>
+<a href="https://v0-1perbettereveryday.vercel.app"><img src="https://img.shields.io/badge/DEMO-Live-6C63FF?style=flat-square" /></a>
 </p>
 
 Fully serverless habit platform on **AWS event-driven architecture**. DynamoDB single-table design for sub-10ms reads, Cognito auth, zero cold-start Lambda optimization.
@@ -359,13 +348,12 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <div align="center">
 
-| | Project | Progress | Status |
-|:-:|:--------|:---------|:------:|
-| <img width="20" src="https://img.icons8.com/color/48/rocket--v1.png"/> | **MT Central Intelligence v2** — streaming RAG retrieval | `████████████████████░░` 85% | ![](https://img.shields.io/badge/-SHIPPING-brightgreen?style=flat-square) |
-| <img width="20" src="https://img.icons8.com/color/48/maintenance.png"/> | **BridgeUp v2** — federated learning integration | `██████████████░░░░░░░░` 65% | ![](https://img.shields.io/badge/-BUILDING-A855F7?style=flat-square) |
-| <img width="20" src="https://img.icons8.com/color/48/microscope.png"/> | **ECG Transformer** — edge quantization pipeline | `████████████░░░░░░░░░░` 55% | ![](https://img.shields.io/badge/-RESEARCH-00B4D8?style=flat-square) |
-| <img width="20" src="https://img.icons8.com/color/48/microphone.png"/> | **Satvic AI Dubbing** — more Indian languages | `███████████████████░░░` 80% | ![](https://img.shields.io/badge/-EXPANDING-FF9900?style=flat-square) |
-| <img width="20" src="https://img.icons8.com/color/48/checkmark.png"/> | **QFI Question Bank** — published & maintained | `██████████████████████` 100% | ![](https://img.shields.io/badge/-DONE-2EA043?style=flat-square) |
+| Project | What’s happening | Status |
+|:--------|:-----------------|:------:|
+| **MT Central Intelligence v2** | Streaming RAG retrieval | ![](https://img.shields.io/badge/-SHIPPING-brightgreen?style=flat-square) |
+| **Satvic AI Dubbing** | Expanding to more Indian languages | ![](https://img.shields.io/badge/-EXPANDING-FF9900?style=flat-square) |
+| **BridgeUp v2** | Federated learning integration | ![](https://img.shields.io/badge/-BUILDING-A855F7?style=flat-square) |
+| **ECG Transformer** | Edge quantization pipeline | ![](https://img.shields.io/badge/-RESEARCH-00B4D8?style=flat-square) |
 
 </div>
 
@@ -373,12 +361,13 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <div align="center">
 
-<samp><b><i>"The market is a stochastic process. So is good research. Ship anyway."</i></b></samp>
+<b>Open to:</b> AI/ML collaborations, enterprise AI consulting, research partnerships, and open-source contributions.
+<br/>If you’re building something interesting with LLMs, RAG, or edge AI — let’s talk.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open_to-Collaborations_on_AI_%26_Cloud-A855F7?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Let's_Talk-Enterprise_AI_%7C_EdTech_%7C_Research-FF6B6B?style=for-the-badge&logoColor=white" />
+<a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/Reach_out_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Or-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
