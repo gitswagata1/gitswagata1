@@ -361,11 +361,11 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 | | Project | Progress | Status |
 |:-:|:--------|:---------|:------:|
-| :fire: | **MT Central Intelligence v2** — streaming RAG retrieval | `████████████████████░░` 85% | ![](https://img.shields.io/badge/-SHIPPING-brightgreen?style=flat-square) |
-| :construction: | **BridgeUp v2** — federated learning integration | `██████████████░░░░░░░░` 65% | ![](https://img.shields.io/badge/-BUILDING-A855F7?style=flat-square) |
-| :microscope: | **ECG Transformer** — edge quantization pipeline | `████████████░░░░░░░░░░` 55% | ![](https://img.shields.io/badge/-RESEARCH-00B4D8?style=flat-square) |
-| :studio_microphone: | **Satvic AI Dubbing** — more Indian languages | `███████████████████░░░` 80% | ![](https://img.shields.io/badge/-EXPANDING-FF9900?style=flat-square) |
-| :white_check_mark: | **QFI Question Bank** — published & maintained | `██████████████████████` 100% | ![](https://img.shields.io/badge/-DONE-2EA043?style=flat-square) |
+| <img width="20" src="https://img.icons8.com/color/48/rocket--v1.png"/> | **MT Central Intelligence v2** — streaming RAG retrieval | `████████████████████░░` 85% | ![](https://img.shields.io/badge/-SHIPPING-brightgreen?style=flat-square) |
+| <img width="20" src="https://img.icons8.com/color/48/maintenance.png"/> | **BridgeUp v2** — federated learning integration | `██████████████░░░░░░░░` 65% | ![](https://img.shields.io/badge/-BUILDING-A855F7?style=flat-square) |
+| <img width="20" src="https://img.icons8.com/color/48/microscope.png"/> | **ECG Transformer** — edge quantization pipeline | `████████████░░░░░░░░░░` 55% | ![](https://img.shields.io/badge/-RESEARCH-00B4D8?style=flat-square) |
+| <img width="20" src="https://img.icons8.com/color/48/microphone.png"/> | **Satvic AI Dubbing** — more Indian languages | `███████████████████░░░` 80% | ![](https://img.shields.io/badge/-EXPANDING-FF9900?style=flat-square) |
+| <img width="20" src="https://img.icons8.com/color/48/checkmark.png"/> | **QFI Question Bank** — published & maintained | `██████████████████████` 100% | ![](https://img.shields.io/badge/-DONE-2EA043?style=flat-square) |
 
 </div>
 
