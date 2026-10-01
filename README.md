@@ -1,11 +1,11 @@
 <!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:FF6B6B&height=250&section=header&text=Swagata%20Banerjee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=%E2%9A%A1%20FDE%20%C2%B7%20Founder%20%C2%B7%20Builder%20%E2%9A%A1&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:FF6B6B&height=250&section=header&text=Swagata%20Banerjee&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=FDE%20%C2%B7%20Founder%20%C2%B7%20Builder&descAlignY=55&descSize=20" width="100%" />
 
 <div align="center">
 
 <!-- DYNAMIC TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=550&height=45&lines=%F0%9F%94%A5+Forward+Deployed+AI+Engineering+Manager;%F0%9F%9A%80+EdTech+Founder+%E2%80%94+1%2C000%2B+Users;%E2%98%81%EF%B8%8F+AWS+%2B+GCP+Cloud+Architect;%F0%9F%8F%86+McKinsey+%7C+Amazon+%7C+Google+Scholar;%F0%9F%94%AC+Medical+AI+Researcher+%40+VIT;%F0%9F%A6%86+Yes%2C+I+use+DuckDB+in+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Forward+Deployed+AI+Engineering+Manager;EdTech+Founder+%E2%80%94+1%2C000%2B+Users;AWS+%2B+GCP+Cloud+Architect;McKinsey+%7C+Amazon+%7C+Google+Scholar;Medical+AI+Researcher+%40+VIT;Yes%2C+I+use+DuckDB+in+production" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,9 +49,9 @@
 <br/><br/>
 
 <!-- CONNECT -->
-<a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/%E2%9C%A6_Portfolio-6C63FF?style=for-the-badge&logoColor=white" /></a>
-<a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/%E2%9C%A6_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%A6_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -297,12 +297,12 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 | <img width="20" src="https://img.icons8.com/color/48/google-logo.png"/> | **Google Girl Hackathon** | Google | Team India representative |
 | <img width="20" src="https://img.icons8.com/color/48/india.png"/> | **Smart India Hackathon** | Govt. of India | Top 90 nationally |
 | <img width="20" src="https://img.icons8.com/color/48/gold-medal.png"/> | **2x Gold Medalist** | NPTEL | Top performer, national certification |
-| :fire: | **Founder** | ByGrowth Academy | Zero to **1,000+ active users** — product, growth, eng |
-| :crown: | **Chairperson** | Innovators Quest, VIT | Flagship tech fest — **500+ participants**, multi-track |
-| :globe_with_meridians: | **Owner** | Gen Z Leadership Circle | Cross-campus community of student founders |
-| :woman_technologist: | **Project Lead** | Lean In, VIT | Technical projects + mentorship for women in tech |
-| :chart_with_upwards_trend: | **Content Lead** | QFI Curriculum | ARIMA, GARCH, stochastic vol, options pricing |
-| :cloud: | **GCP Facilitator** | Google Cloud | **120+ labs**, **80+ badges** across cloud & ML |
+| <img width="20" src="https://img.icons8.com/color/48/rocket--v1.png"/> | **Founder** | ByGrowth Academy | Zero to **1,000+ active users** — product, growth, eng |
+| <img width="20" src="https://img.icons8.com/color/48/conference-call.png"/> | **Chairperson** | Innovators Quest, VIT | Flagship tech fest — **500+ participants**, multi-track |
+| <img width="20" src="https://img.icons8.com/color/48/globe--v1.png"/> | **Owner** | Gen Z Leadership Circle | Cross-campus community of student founders |
+| <img width="20" src="https://img.icons8.com/color/48/code.png"/> | **Project Lead** | Lean In, VIT | Technical projects + mentorship for women in tech |
+| <img width="20" src="https://img.icons8.com/color/48/combo-chart.png"/> | **Content Lead** | QFI Curriculum | ARIMA, GARCH, stochastic vol, options pricing |
+| <img width="20" src="https://img.icons8.com/color/48/google-cloud.png"/> | **GCP Facilitator** | Google Cloud | **120+ labs**, **80+ badges** across cloud & ML |
 
 </div>
 
@@ -312,13 +312,25 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <div align="center">
 
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=gitswagata1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<!-- STATS + STREAK -->
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6C63FF&text_color=C9D1D9&ring_color=A855F7&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6C63FF&text_color=C9D1D9&ring_color=A855F7&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" /></td>
 <td><img src="https://streak-stats.demolab.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=555555" alt="Streak Stats" /></td>
 </tr>
 </table>
 
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswagata1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- DETAILED CARDS -->
 <table>
 <tr>
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitswagata1&theme=tokyonight" alt="Repos per Language" /></td>
@@ -327,10 +339,12 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitswagata1&theme=tokyonight" alt="Contribution Graph" />
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswagata1&bg_color=0D1117&color=A855F7&line=6C63FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
 
 <br/>
 
+<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake.svg" />
