@@ -5,7 +5,7 @@
 
 <!-- DYNAMIC TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Forward+Deployed+AI+Engineering+Manager;EdTech+Founder+%E2%80%94+1%2C000%2B+Users;AWS+%2B+GCP+Cloud+Architect;McKinsey+%7C+Amazon+%7C+Google+Scholar;Medical+AI+Researcher+%40+VIT;Yes%2C+I+use+DuckDB+in+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Forward+Deployed+AI+Engineering+Manager;EdTech+Founder+%E2%80%94+1%2C000%2B+Users;AWS+%2B+GCP+Cloud+Architect;Medical+AI+Researcher+%40+VIT" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,8 +21,6 @@
 <img src="https://img.shields.io/badge/Top_90-SIH_National-FF6B6B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/2x_Gold-NPTEL-FFD700?style=for-the-badge&logoColor=black" />
 
-
-
 <!-- CONNECT -->
 <a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white" /></a>
 
@@ -34,33 +32,9 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="60%">
+**Forward Deployed Engineering Manager (Gen AI)** at **Micro Turners Group** — shipping RAG pipelines and multi-agent procurement automation across 15 sourcing plants.
 
-```js
-const swagata = {
-    role:       "Forward Deployed Engineering Manager (Gen AI)",
-    company:    "Micro Turners Group",
-    founded:    "ByGrowth Academy — 1,000+ users",
-    research:   "Lightweight Transformers for Medical AI @ VIT",
-    education:  "B.Tech CSE, VIT Vellore — Class of 2027",
-};
-```
-
-</td>
-<td width="40%">
-
-**Right now I'm...**
-
-- Shipping RAG v2 with streaming retrieval at MT Group
-- Integrating federated learning into BridgeUp
-- Optimizing a Transformer for edge ECG inference
-- Mentoring student builders through Lean In & iQuest
-
-</td>
-</tr>
-</table>
+Founded **ByGrowth Academy**, an EdTech platform scaled to **1,000+ active users**. Currently researching lightweight Transformers for medical AI at VIT, where I'm finishing my B.Tech CSE (Class of 2027).
 
 ---
 
@@ -200,49 +174,6 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 </td>
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/gitswagata1/AIGENDA">AIGENDA</a></h3>
-<p align="center"><sub><b>AI Tool | Invoice Analyzer</b></sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/EVENT-GraVITas_'24-6C63FF?style=flat-square" />
-</p>
-
-AI-powered invoice analyzer using **Gemini Vision API** — extract and process invoice data from images. Built for GraVITas '24 hackathon.
-
-> Gemini multimodal + Streamlit UI + image-to-data pipeline
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">ECG Sleep Apnea Screening</h3>
-<p align="center"><sub><b>Medical AI | VIT Research BCSE497J</b></sub></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-RESEARCH-00B4D8?style=flat-square" />
-<img src="https://img.shields.io/badge/TARGET-Edge_Deploy-0F172A?style=flat-square" />
-</p>
-
-Lightweight Transformer for **non-invasive sleep apnea detection** from single-lead ECG. Optimized for edge deployment via quantization + pruning on resource-constrained devices.
-
-> Custom Transformer encoder + ECG signal pipeline + edge inference
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-</td>
-</tr>
 </table>
 
 ---
