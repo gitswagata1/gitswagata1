@@ -372,4 +372,11 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 </div>
 
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A855F7,100:6C63FF&height=100&section=footer" width="100%" />
