@@ -380,6 +380,11 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. ℹ️ Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+2. ℹ️ Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+3. ❗ Opened issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+4. ❗ Opened issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
+5. ℹ️ Labeled issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A855F7,100:6C63FF&height=100&section=footer" width="100%" />
