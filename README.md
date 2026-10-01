@@ -21,13 +21,7 @@
 <img src="https://img.shields.io/badge/Top_90-SIH_National-FF6B6B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/2x_Gold-NPTEL-FFD700?style=for-the-badge&logoColor=black" />
 
-<!-- PROGRAM BADGES -->
-![Amazon WoW](https://img.shields.io/badge/Amazon_WoW-2026_Scholar-FF9900?style=flat-square&logo=amazon&logoColor=white)
-![McKinsey Forward](https://img.shields.io/badge/McKinsey_Forward-AI_%26_Digital-00A3E0?style=flat-square&logoColor=white)
-![Google](https://img.shields.io/badge/Google_Girl_Hackathon-Team_India-4285F4?style=flat-square&logo=google&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-2x_Gold-FFD700?style=flat-square&logoColor=black)
 
-<br/><br/>
 
 <!-- CONNECT -->
 <a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white" /></a>
@@ -257,19 +251,19 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <div align="center">
 
-| | Role | Where | Impact |
-|:-:|:-----|:------|:-------|
-| <img width="20" src="https://img.icons8.com/color/48/amazon.png"/> | **Amazon WoW 2026 Scholar** | Amazon | Selected for Women of the World program |
-| <img width="20" src="https://img.icons8.com/color/48/briefcase.png"/> | **McKinsey Forward** | McKinsey & Co | AI & Digital leadership program |
-| <img width="20" src="https://img.icons8.com/color/48/google-logo.png"/> | **Google Girl Hackathon** | Google | Team India representative |
-| <img width="20" src="https://img.icons8.com/color/48/india.png"/> | **Smart India Hackathon** | Govt. of India | Top 90 nationally |
-| <img width="20" src="https://img.icons8.com/color/48/gold-medal.png"/> | **2x Gold Medalist** | NPTEL | Top performer, national certification |
-| <img width="20" src="https://img.icons8.com/color/48/rocket--v1.png"/> | **Founder** | ByGrowth Academy | Zero to **1,000+ active users** — product, growth, eng |
-| <img width="20" src="https://img.icons8.com/color/48/conference-call.png"/> | **Chairperson** | Innovators Quest, VIT | Flagship tech fest — **500+ participants**, multi-track |
-| <img width="20" src="https://img.icons8.com/color/48/globe--v1.png"/> | **Owner** | Gen Z Leadership Circle | Cross-campus community of student founders |
-| <img width="20" src="https://img.icons8.com/color/48/code.png"/> | **Project Lead** | Lean In, VIT | Technical projects + mentorship for women in tech |
-| <img width="20" src="https://img.icons8.com/color/48/combo-chart.png"/> | **Content Lead** | QFI Curriculum | ARIMA, GARCH, stochastic vol, options pricing |
-| <img width="20" src="https://img.icons8.com/color/48/google-cloud.png"/> | **GCP Facilitator** | Google Cloud | **120+ labs**, **80+ badges** across cloud & ML |
+| Role | Where | Impact |
+|:-----|:------|:-------|
+| **Amazon WoW 2026 Scholar** | Amazon | Selected for Women of the World program |
+| **McKinsey Forward** | McKinsey & Co | AI & Digital leadership program |
+| **Google Girl Hackathon** | Google | Team India representative |
+| **Smart India Hackathon** | Govt. of India | Top 90 nationally |
+| **2x Gold Medalist** | NPTEL | Top performer, national certification |
+| **Founder** | ByGrowth Academy | Zero to **1,000+ active users** — product, growth, eng |
+| **Chairperson** | Innovators Quest, VIT | Flagship tech fest — **500+ participants**, multi-track |
+| **Owner** | Gen Z Leadership Circle | Cross-campus community of student founders |
+| **Project Lead** | Lean In, VIT | Technical projects + mentorship for women in tech |
+| **Content Lead** | QFI Curriculum | ARIMA, GARCH, stochastic vol, options pricing |
+| **GCP Facilitator** | Google Cloud | **120+ labs**, **80+ badges** across cloud & ML |
 
 </div>
 
@@ -346,4 +340,3 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 5. ℹ️ Labeled issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
 <!--END_SECTION:activity-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A855F7,100:6C63FF&height=100&section=footer" width="100%" />
