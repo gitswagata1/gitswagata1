@@ -24,9 +24,19 @@
 
 ## About Me
 
-**Forward Deployed Engineering Manager (Gen AI)** at **Micro Turners Group** — shipping RAG pipelines and multi-agent procurement automation across 15 sourcing plants.
+*I didn't choose between building, designing, and leading. I decided to be all three.*
 
-Founded **ByGrowth Academy**, an EdTech platform scaled to **1,000+ active users**. Currently researching lightweight Transformers for medical AI at VIT, where I'm finishing my B.Tech CSE (Class of 2027).
+I'm Swagata Banerjee, a Computer Science Engineering student at VIT Vellore who genuinely loves the full stack of bringing ideas to life: the logic behind the system, the empathy behind the interface, and the vision that holds a team together.
+
+That's led me further than I expected. I grew from a core member to Chairperson of Innovators Quest, founded an EdTech startup and took it from zero to 1,000+ active users. Beyond that: Project Lead at Lean In, Manager at Bangalore Leadership Circle, Forward Champion at McKinsey, and an intern FDE in the automotive sector. Each role added a layer of sharper thinking, cleaner communication, and faster execution.
+
+Technically, I work across Python, C++, and TypeScript, and I've gone deep on AI, BigQuery, and Kubernetes through 120+ Google Cloud labs. My foundation isn't just functional code — it's systems thinking applied to real constraints.
+
+Design thinking is how I'm wired. Figma is my thinking space, Agile is my operating model, and the intersection of user insight, technical feasibility, and stakeholder trust is where I do my best work.
+
+The credential I'm most proud of isn't any title, position, or certificate. It's that I show up, figure it out, and leave every project and team better than I found it.
+
+**I'm actively exploring roles in FDE, Product Engineering, and SDE.** If you're building in that space, I'd genuinely love to talk.
 
 ---
 
@@ -34,33 +44,37 @@ Founded **ByGrowth Academy**, an EdTech platform scaled to **1,000+ active users
 
 <div align="center">
 
-### `LANGUAGES`
+### `LANGUAGES & FRAMEWORKS`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### `AI / ML`
+### `AI / ML & DATA`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-EE4C2C?style=for-the-badge&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### `CLOUD & INFRA`
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-### `TOOLS & DATA`
+### `PRODUCT & DESIGN`
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
@@ -237,8 +251,8 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 <div align="center">
 
-<b>Open to:</b> AI/ML collaborations, enterprise AI consulting, research partnerships, and open-source contributions.
-<br/>If you’re building something interesting with LLMs, RAG, or edge AI — let’s talk.
+<b>Open to:</b> FDE, Product Engineering, and SDE roles — plus AI/ML collaborations and open-source contributions.
+<br/>If you're building something interesting, I'd genuinely love to talk.
 
 <br/><br/>
 
