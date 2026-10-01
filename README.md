@@ -279,30 +279,11 @@ Lightweight Transformer for **non-invasive sleep apnea detection** from single-l
 
 <div align="center">
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=gitswagata1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-<br/><br/>
-
 <!-- STATS + STREAK -->
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6C63FF&text_color=C9D1D9&ring_color=A855F7&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" /></td>
 <td><img src="https://streak-stats.demolab.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=555555" alt="Streak Stats" /></td>
-</tr>
-</table>
-
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswagata1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- DETAILED CARDS -->
-<table>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitswagata1&theme=tokyonight" alt="Repos per Language" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gitswagata1&theme=tokyonight" alt="Most Commit Language" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gitswagata1&theme=tokyonight&utcOffset=5.5" alt="Productive Time" /></td>
 </tr>
 </table>
 
