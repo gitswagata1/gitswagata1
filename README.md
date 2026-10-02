@@ -40,42 +40,113 @@ The credential I'm most proud of isn't any title, position, or certificate. It's
 
 ---
 
-## Tech Stack
+## 💻 My Favorite Tools and Technologies
 
 <div align="center">
-
-### `LANGUAGES & FRAMEWORKS`
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### `AI / ML & DATA`
-
-![LLMs](https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-EE4C2C?style=for-the-badge&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### `CLOUD & INFRA`
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-### `PRODUCT & DESIGN`
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+                <br>C++
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+                <br>TypeScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+                <br>React
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+                <br>Node.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+                <br>Next.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+                <br>Kotlin
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI" />
+                <br>OpenAI
+            </td>
+            <td align="center" width="96">
+                <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gemini.svg" width="48" height="48" alt="Gemini" />
+                <br>Gemini
+            </td>
+            <td align="center" width="96">
+                <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png" width="48" height="48" alt="LangChain" />
+                <br>LangChain
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+                <br>Supabase
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+                <br>Docker
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" />
+                <br>DuckDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="BigQuery" />
+                <br>BigQuery
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
+                <br>Power BI
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
+                <br>AWS
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+                <br>GCP
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+                <br>Kubernetes
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" height="48" alt="SAP" />
+                <br>SAP
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+                <br>Figma
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/miro/FFD02F" width="48" height="48" alt="Miro" />
+                <br>Miro
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="48" height="48" alt="Notion" />
+                <br>Notion
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+                <br>Git
+            </td>
+        </tr>
+    </table>
 </div>
 
 ---
@@ -219,7 +290,7 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 </table>
 
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswagata1&bg_color=0D1117&color=A855F7&line=6C63FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitswagata1&theme=github_dark" alt="Contribution Graph" width="100%" />
 
 <br/>
 
