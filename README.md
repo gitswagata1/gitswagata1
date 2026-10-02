@@ -304,29 +304,11 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 ---
 
-## GitHub Analytics
+## Contributions
 
 <div align="center">
 
-<!-- STATS + STREAK -->
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6C63FF&text_color=C9D1D9&ring_color=A855F7&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" /></td>
-<td><img src="https://streak-stats.demolab.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=555555" alt="Streak Stats" /></td>
-</tr>
-</table>
-
-<!-- CONTRIBUTION GRAPH -->
 <img src="https://ghchart.rshah.org/A855F7/gitswagata1" alt="Contribution Graph" width="100%" />
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
