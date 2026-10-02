@@ -102,8 +102,12 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>BigQuery
             </td>
             <td align="center" width="96">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
+                <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
                 <br>Power BI
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" />
+                <br>Jupyter
             </td>
         </tr>
         <tr>
@@ -112,23 +116,23 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>AWS
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=lambda" width="48" height="48" alt="Lambda" />
+                <img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48" height="48" alt="Lambda" />
                 <br>Lambda
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
+                <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" width="48" height="48" alt="DynamoDB" />
                 <br>DynamoDB
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=cognito" width="48" height="48" alt="Cognito" />
+                <img src="https://cdn.simpleicons.org/amazoncognito/DD344C" width="48" height="48" alt="Cognito" />
                 <br>Cognito
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=apigateway" width="48" height="48" alt="API Gateway" />
+                <img src="https://cdn.simpleicons.org/amazonapigateway/FF4F8B" width="48" height="48" alt="API Gateway" />
                 <br>API Gateway
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=cloudwatch" width="48" height="48" alt="CloudWatch" />
+                <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" width="48" height="48" alt="CloudWatch" />
                 <br>CloudWatch
             </td>
             <td align="center" width="96">
@@ -158,7 +162,7 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>PostgreSQL
             </td>
             <td align="center" width="96">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI" />
+                <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" />
                 <br>OpenAI
             </td>
             <td align="center" width="96">
