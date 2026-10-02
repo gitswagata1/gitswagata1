@@ -92,10 +92,6 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
         </tr>
         <tr>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" />
-                <br>OpenAI
-            </td>
-            <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
                 <br>PyTorch
             </td>
@@ -104,8 +100,12 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
                 <br>HuggingFace
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
+                <img src="https://cdn.simpleicons.org/langchain/65C3AB" width="48" height="48" alt="LangChain" />
                 <br>LangChain
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+                <br>Bash
             </td>
             <td align="center" width="96">
                 <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" />
@@ -188,8 +188,8 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
                 <br>GitHub
             </td>
             <td align="center" width="96">
-                <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
-                <br>Bash
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Vertex AI" />
+                <br>Vertex AI
             </td>
         </tr>
     </table>
