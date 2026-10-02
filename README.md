@@ -30,7 +30,7 @@ Forward Deployed Engineering Manager, Gen AI — shipping AI/LLM systems from pr
 
 Founded **ByGrowth Academy** and scaled it from zero to **1,000+ active users**. Grew from core member to **Chairperson of Innovators Quest** at VIT. Selected for **Amazon WoW (2026)**, **McKinsey Forward (AI & Digital)**, **Google's Girl Hackathon Team India**, and **Google Cloud Certified** (120+ labs, 80+ badges).
 
-Technically, I work across Python, C++, JavaScript, and TypeScript — building with LLMs, RAG pipelines, serverless AWS, and GCP (Vertex AI, Kubernetes). My foundation isn't just functional code — it's systems thinking applied to real constraints: solution architecture, stakeholder communication, and PRD writing.
+Technically, I work across Python, C++, JavaScript, and TypeScript — building with LLMs, RAG pipelines, serverless AWS, and GCP (Vertex AI, Kubernetes). My foundation isn't just functional code — it's systems thinking applied to real constraints: technical discovery, solution architecture, stakeholder communication, PRD writing, and MECE problem-solving.
 
 **B.Tech, Computer Science & Engineering — VIT Vellore (2023–2027)**
 
