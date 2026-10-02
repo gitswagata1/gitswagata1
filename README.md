@@ -112,7 +112,7 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
                 <br>DuckDB
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=pbi" width="48" height="48" alt="Power BI" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" width="48" height="48" alt="Power BI" />
                 <br>Power BI
             </td>
             <td align="center" width="96">
@@ -130,23 +130,23 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
                 <br>AWS
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=lambda" width="48" height="48" alt="Lambda" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" width="48" height="48" alt="Lambda" />
                 <br>Lambda
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
                 <br>DynamoDB
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=cognito" width="48" height="48" alt="Cognito" />
+                <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" width="48" height="48" alt="Cognito" />
                 <br>Cognito
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=apigateway" width="48" height="48" alt="API Gateway" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" width="48" height="48" alt="API Gateway" />
                 <br>API Gateway
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=cloudwatch" width="48" height="48" alt="CloudWatch" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" width="48" height="48" alt="CloudWatch" />
                 <br>CloudWatch
             </td>
             <td align="center" width="96">
@@ -190,6 +190,74 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
             <td align="center" width="96">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Vertex AI" />
                 <br>Vertex AI
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+                <br>Next.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+                <br>Tailwind
+            </td>
+            <td align="center" width="96">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="48" height="48" alt="shadcn/ui" />
+                <br>shadcn/ui
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion" />
+                <br>Framer
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
+                <br>Streamlit
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly" />
+                <br>Plotly
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+                <br>Firebase
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+                <br>Vercel
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+                <br>Actions
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="pnpm" />
+                <br>pnpm
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/zod/3E67B1" width="48" height="48" alt="Zod" />
+                <br>Zod
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="48" height="48" alt="PWA" />
+                <br>PWA
+            </td>
+            <td align="center" width="96">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" width="48" height="48" alt="ESLint" />
+                <br>ESLint
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="48" height="48" alt="W&B" />
+                <br>W&B
+            </td>
+            <td align="center" width="96">
+                <img src="https://avatars.githubusercontent.com/u/24030498?s=48&v=4" width="48" height="48" alt="Recharts" />
+                <br>Recharts
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="48" height="48" alt="ffmpeg" />
+                <br>ffmpeg
             </td>
         </tr>
     </table>
