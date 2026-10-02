@@ -11,15 +11,14 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Swagata%20Banerjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Forward%20Deployed%20Engineering%20Manager%20%C2%B7%20Gen%20AI%20%C2%B7%20Founder&descAlignY=55&descSize=17&descColor=a9b1d6)](https://github.com/gitswagata1)
 
 <!-- Animated typing titles -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems+for+Enterprise+%F0%9F%8F%97%EF%B8%8F;LLM+Infrastructure+%C2%B7+RAG+Pipelines+%C2%B7+Agentic+AI+%F0%9F%A4%96;Shipping+AI+from+Prototype+to+Production+%F0%9F%9A%80;Open+Source+Enthusiast+%C2%B7+15-Plant+Deployment+%F0%9F%8F%AD)](https://github.com/gitswagata1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems+for+Enterprise;LLM+Infrastructure+%C2%B7+RAG+Pipelines+%C2%B7+Agentic+AI;Shipping+AI+from+Prototype+to+Production;Open+Source+Enthusiast+%C2%B7+15-Plant+Deployment)](https://github.com/gitswagata1)
 
 <br/>
 
 <!-- Social links -->
 <a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bf91f3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gitswagata1&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -27,19 +26,19 @@
 
 <!-- ─── SECTION 2 · ABOUT ME + GAMIFIED STATS DASHBOARD ────────────────────── -->
 
-## ⚡ About Me
+## About Me
 
-🏗️&nbsp; **Forward Deployed Engineering Manager, Gen AI** — shipping AI/LLM systems end-to-end across a **15-plant manufacturing group**
+**Forward Deployed Engineering Manager, Gen AI** — shipping AI/LLM systems end-to-end across a **15-plant manufacturing group**
 
-🚀&nbsp; **Founded ByGrowth Academy** — scaled from zero to **1,000+ active users**
+**Founded ByGrowth Academy** — scaled from zero to **1,000+ active users**
 
-🏆&nbsp; **Amazon WoW '26** · **McKinsey Forward** · **Google Girl Hackathon Team India** · **SIH Top 90** · **2× NPTEL Gold** · **NTSE Scholar**
+**Amazon WoW '26** · **McKinsey Forward** · **Google Girl Hackathon Team India** · **SIH Top 90** · **2x NPTEL Gold** · **NTSE Scholar**
 
-☁️&nbsp; **Google Cloud Certified** — 120+ labs, 80+ badges across cloud & ML
+**Google Cloud Certified** — 120+ labs, 80+ badges across cloud & ML
 
-🎓&nbsp; **B.Tech CSE @ VIT Vellore** (2023–27) · VITEEE AIR 303
+**B.Tech CSE @ VIT Vellore** (2023–27) · VITEEE AIR 303
 
-💡&nbsp; Deep focus on **on-prem LLM deployment**, **agentic multi-agent workflows**, and **RAG pipelines**
+Deep focus on **on-prem LLM deployment**, **agentic multi-agent workflows**, and **RAG pipelines**
 
 <br/>
 
@@ -59,7 +58,7 @@
 
 <!-- ─── SECTION 3 · TECH STACK MATRIX ──────────────────────────────────────── -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -80,7 +79,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![CrewAI](https://img.shields.io/badge/CrewAI-bf91f3?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -114,14 +113,14 @@
 
 <!-- ─── SECTION 4 · FEATURED PROJECTS (GAMIFIED CARDS) ─────────────────────── -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🏭 MT Central Intelligence Platform</h3>
+<h3 align="center">MT Central Intelligence Platform</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/PRODUCTION-brightgreen?style=flat-square" />
 <img src="https://img.shields.io/badge/IMPACT-15_Plants-70a5fd?style=flat-square" />
@@ -139,7 +138,7 @@ Manufacturing-intelligence dashboard with an **embedded LLM copilot**, live **SA
 
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/gitswagata1/bridgeup">📚 BridgeUp</a></h3>
+<h3 align="center"><a href="https://github.com/gitswagata1/bridgeup">BridgeUp</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/BETA-A855F7?style=flat-square" />
 <img src="https://img.shields.io/badge/ARCH-Federated_Learning-6C63FF?style=flat-square" />
@@ -160,7 +159,7 @@ Manufacturing-intelligence dashboard with an **embedded LLM copilot**, live **SA
 
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/gitswagata1/1per-Better-Everyday-with-sb">⚡ 1% Better Everyday</a></h3>
+<h3 align="center"><a href="https://github.com/gitswagata1/1per-Better-Everyday-with-sb">1% Better Everyday</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/LIVE-brightgreen?style=flat-square" />
 <img src="https://img.shields.io/badge/LATENCY-%3C10ms-FF9900?style=flat-square" />
@@ -179,13 +178,13 @@ Serverless habits platform on **AWS Lambda + DynamoDB** with **JWT auth via Cogn
 
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/gitswagata1/satvic-ai-dubbing">🎙️ Satvic AI Dubbing</a></h3>
+<h3 align="center"><a href="https://github.com/gitswagata1/satvic-ai-dubbing">Satvic AI Dubbing</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/SHIPPED-brightgreen?style=flat-square" />
 <img src="https://img.shields.io/badge/COST-%E2%82%B90_Open_Source-2EA043?style=flat-square" />
 </p>
 
-AI dubbing pipeline: **Hindi → Telugu & Malayalam** in the creator's cloned voice. Fully open-source — Whisper + Demucs + IndicF5 + ffmpeg, zero API cost.
+AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voice. Fully open-source — Whisper + Demucs + IndicF5 + ffmpeg, zero API cost.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white)
@@ -201,7 +200,7 @@ AI dubbing pipeline: **Hindi → Telugu & Malayalam** in the creator's cloned vo
 
 <!-- ─── SECTION 5 · GITHUB METRICS & TROPHIES ──────────────────────────────── -->
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gitswagata1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4&rank=-C,-B" alt="GitHub Trophies" />
@@ -223,14 +222,14 @@ AI dubbing pipeline: **Hindi → Telugu & Malayalam** in the creator's cloned vo
 
 ---
 
-## 📡 Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-2. ℹ️ Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-3. ❗ Opened issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-4. ❗ Opened issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
-5. ℹ️ Labeled issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
+1. Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+2. Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+3. Opened issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+4. Opened issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
+5. Labeled issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
 <!--END_SECTION:activity-->
 
 ---
@@ -246,10 +245,6 @@ AI dubbing pipeline: **Hindi → Telugu & Malayalam** in the creator's cloned vo
 <a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bf91f3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=gitswagata1&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile views" />
 
 <br/><br/>
 
