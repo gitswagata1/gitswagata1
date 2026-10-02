@@ -52,55 +52,147 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
 
 <!-- ─── SECTION 3 · TECH STACK MATRIX ──────────────────────────────────────── -->
 
-## Tech Stack
+## My Favorite Tools and Technologies
 
 <div align="center">
-
-**`LANGUAGES`**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**`FRAMEWORKS & LIBRARIES`**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![CrewAI](https://img.shields.io/badge/CrewAI-bf91f3?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**`CLOUD & DEVOPS`**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**`TOOLS & DATABASES`**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+                <br>C++
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+                <br>TypeScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+                <br>React
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+                <br>Node.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+                <br>HTML
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+                <br>CSS
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" />
+                <br>OpenAI
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+                <br>PyTorch
+            </td>
+            <td align="center" width="96">
+                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" />
+                <br>HuggingFace
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
+                <br>LangChain
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" />
+                <br>DuckDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=pbi" width="48" height="48" alt="Power BI" />
+                <br>Power BI
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" />
+                <br>Jupyter
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+                <br>Figma
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
+                <br>AWS
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=lambda" width="48" height="48" alt="Lambda" />
+                <br>Lambda
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
+                <br>DynamoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=cognito" width="48" height="48" alt="Cognito" />
+                <br>Cognito
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=apigateway" width="48" height="48" alt="API Gateway" />
+                <br>API Gateway
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=cloudwatch" width="48" height="48" alt="CloudWatch" />
+                <br>CloudWatch
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+                <br>GCP
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+                <br>Kubernetes
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+                <br>Docker
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+                <br>Git
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+                <br>PostgreSQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+                <br>Supabase
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" height="48" alt="SAP" />
+                <br>SAP
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+                <br>VS Code
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+                <br>GitHub
+            </td>
+            <td align="center" width="96">
+                <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+                <br>Bash
+            </td>
+        </tr>
+    </table>
 </div>
 
 ---
