@@ -49,7 +49,7 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
             </td>
             <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-                <br>C++
+                <br>C++ (OOP)
             </td>
             <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
@@ -61,41 +61,41 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
             </td>
             <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-                <br>React
+                <br>React.js
             </td>
             <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
                 <br>Node.js
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-                <br>Next.js
+                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+                <br>HTML
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-                <br>Kotlin
+                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+                <br>CSS
             </td>
         </tr>
         <tr>
             <td align="center" width="96">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI" />
-                <br>OpenAI
+                <img src="https://img.shields.io/badge/LLMs-0F172A?style=flat&logoColor=white" width="48" height="48" alt="LLMs" />
+                <br>LLMs
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gemini.svg" width="48" height="48" alt="Gemini" />
-                <br>Gemini
+                <img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat&logoColor=white" width="48" height="48" alt="RAG" />
+                <br>RAG
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
-                <br>LangChain
+                <img src="https://img.shields.io/badge/NLP-EE4C2C?style=flat&logoColor=white" width="48" height="48" alt="NLP" />
+                <br>NLP
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-                <br>Supabase
+                <img src="https://img.shields.io/badge/Prompt_Eng-A855F7?style=flat&logoColor=white" width="48" height="48" alt="Prompt Engineering" />
+                <br>Prompt Eng
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-                <br>Docker
+                <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gemini.svg" width="48" height="48" alt="Gemini API" />
+                <br>Gemini API
             </td>
             <td align="center" width="96">
                 <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" />
@@ -116,6 +116,26 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>AWS
             </td>
             <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48" height="48" alt="Lambda" />
+                <br>Lambda
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" width="48" height="48" alt="DynamoDB" />
+                <br>DynamoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/amazoniam/DD344C" width="48" height="48" alt="Cognito" />
+                <br>Cognito
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/amazonapigateway/FF4F8B" width="48" height="48" alt="API Gateway" />
+                <br>API Gateway
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" width="48" height="48" alt="CloudWatch" />
+                <br>CloudWatch
+            </td>
+            <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
                 <br>GCP
             </td>
@@ -123,51 +143,39 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
                 <br>Kubernetes
             </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Vertex AI" />
+                <br>Vertex AI
+            </td>
             <td align="center" width="96">
                 <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" height="48" alt="SAP" />
                 <br>SAP
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-                <br>Figma
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/miro/FFD02F" width="48" height="48" alt="Miro" />
-                <br>Miro
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="48" height="48" alt="Notion" />
-                <br>Notion
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-                <br>Git
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-                <br>HTML
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-                <br>CSS
+                <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+                <br>Supabase
             </td>
             <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
                 <br>PostgreSQL
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
-                <br>DynamoDB
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI" />
+                <br>OpenAI
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" width="48" height="48" alt="CloudWatch" />
-                <br>CloudWatch
+                <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
+                <br>LangChain
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-                <br>Vercel
+                <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+                <br>Docker
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+                <br>Git
             </td>
         </tr>
     </table>
