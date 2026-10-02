@@ -294,11 +294,11 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-2. Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-3. Opened issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-4. Opened issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
-5. Labeled issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
+1. ℹ️ Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+2. ℹ️ Labeled issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+3. ❗ Opened issue [#2](https://github.com/gitswagata1/satvic-ai-dubbing/issues/2) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+4. ❗ Opened issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
+5. ℹ️ Labeled issue [#4](https://github.com/gitswagata1/bridgeup/issues/4) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
 <!--END_SECTION:activity-->
 
 ---
