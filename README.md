@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/15_Plants-MT_Group_AI-0F172A?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/120%2B_GCP_Labs-80%2B_Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Top_90-SIH_National-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AIR_303-VITEEE-A855F7?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/2x_Gold-NPTEL-FFD700?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/NTSE-Scholar-00B4D8?style=for-the-badge&logoColor=white" />
 
 <!-- CONNECT -->
 <a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white" /></a>
@@ -24,19 +26,15 @@
 
 ## About Me
 
-*I didn't choose between building, designing, and leading. I decided to be all three.*
+Forward Deployed Engineering Manager, Gen AI — shipping AI/LLM systems from prototype to production inside a **15-plant manufacturing group**. I own end-to-end delivery: from technical discovery with the Managing Director and VP of Purchase, to deployed software that runs across live procurement operations.
 
-I'm Swagata Banerjee, a Computer Science Engineering student at VIT Vellore who genuinely loves the full stack of bringing ideas to life: the logic behind the system, the empathy behind the interface, and the vision that holds a team together.
+Founded **ByGrowth Academy** and scaled it from zero to **1,000+ active users**. Grew from core member to **Chairperson of Innovators Quest** at VIT. Selected for **Amazon WoW (2026)**, **McKinsey Forward (AI & Digital)**, **Google's Girl Hackathon Team India**, and **Google Cloud Certified** (120+ labs, 80+ badges).
 
-That's led me further than I expected. I grew from a core member to Chairperson of Innovators Quest, founded an EdTech startup and took it from zero to 1,000+ active users. Beyond that: Project Lead at Lean In, Manager at Bangalore Leadership Circle, Forward Champion at McKinsey, and an intern FDE in the automotive sector. Each role added a layer of sharper thinking, cleaner communication, and faster execution.
+Technically, I work across Python, C++, JavaScript, and TypeScript — building with LLMs, RAG pipelines, serverless AWS, and GCP (Vertex AI, Kubernetes). My foundation isn't just functional code — it's systems thinking applied to real constraints: solution architecture, stakeholder communication, and PRD writing.
 
-Technically, I work across Python, C++, and TypeScript, and I've gone deep on AI, BigQuery, and Kubernetes through 120+ Google Cloud labs. My foundation isn't just functional code — it's systems thinking applied to real constraints.
+**B.Tech, Computer Science & Engineering — VIT Vellore (2023–2027)**
 
-Design thinking is how I'm wired. Figma is my thinking space, Agile is my operating model, and the intersection of user insight, technical feasibility, and stakeholder trust is where I do my best work.
-
-The credential I'm most proud of isn't any title, position, or certificate. It's that I show up, figure it out, and leave every project and team better than I found it.
-
-**I'm actively exploring roles in FDE, Product Engineering, and SDE.** If you're building in that space, I'd genuinely love to talk.
+**Open to:** FDE, Product Engineering, and SDE roles — plus AI/ML collaborations and open-source contributions.
 
 ---
 
@@ -146,6 +144,32 @@ The credential I'm most proud of isn't any title, position, or certificate. It's
                 <br>Git
             </td>
         </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+                <br>HTML
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+                <br>CSS
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+                <br>PostgreSQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
+                <br>DynamoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.simpleicons.org/cloudwatch/FF4F8B" width="48" height="48" alt="CloudWatch" />
+                <br>CloudWatch
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+                <br>Vercel
+            </td>
+        </tr>
     </table>
 </div>
 
@@ -166,9 +190,9 @@ The credential I'm most proud of isn't any title, position, or certificate. It's
 <img src="https://img.shields.io/badge/IMPACT-15_Plants-FF6B6B?style=flat-square" />
 </p>
 
-Production-grade intelligence platform powering AI-driven procurement across **15 sourcing plants**. Multi-agent CrewAI architecture for automated vendor research & decision-making.
+Manufacturing-intelligence dashboard with an **embedded LLM copilot**, live **SAP procurement-data integration**, and an **inventory-management engine** — deployed across **15 sourcing plants**. Built RAG-based LLM analysis pipelines and a **Material Code Intelligence Engine** (hybrid DuckDB + LLM retrieval) delivering auditable sourcing intelligence.
 
-> RAG pipelines + DuckDB retrieval + on-prem LLM benchmarking
+> LLM Copilot + SAP Integration + RAG Pipelines + DuckDB + Material Code Intelligence
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B6B?style=flat-square)
@@ -190,9 +214,9 @@ Production-grade intelligence platform powering AI-driven procurement across **1
 <a href="https://gitswagata1.github.io/bridgeup/"><img src="https://img.shields.io/badge/DEMO-Live-6C63FF?style=flat-square" /></a>
 </p>
 
-Browser-native Python execution via **Pyodide/WASM** with adaptive learning paths powered by **Federated Learning with Differential Privacy**. Zero server-side compute.
+**8-module, 99-lesson** Python course with in-browser code execution (**Pyodide/WebAssembly**), adaptive placement testing, a **lesson-aware LLM tutor**, and test-gated progression with per-student tracking. Full stack: vanilla-JS SPA, **Supabase/Postgres**, role-based dashboards, and a privacy-preserving **federated-learning engine** with differential privacy.
 
-> In-browser execution + FL personalization + Supabase real-time
+> 99 Lessons + LLM Tutor + Pyodide/WASM + Supabase + Federated Learning
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -217,9 +241,9 @@ Browser-native Python execution via **Pyodide/WASM** with adaptive learning path
 <a href="https://v0-1perbettereveryday.vercel.app"><img src="https://img.shields.io/badge/DEMO-Live-6C63FF?style=flat-square" /></a>
 </p>
 
-Fully serverless habit platform on **AWS event-driven architecture**. DynamoDB single-table design for sub-10ms reads, Cognito auth, zero cold-start Lambda optimization.
+Production-grade serverless platform (**7+ modules**) on **AWS Lambda + DynamoDB**; secured end-to-end with **JWT auth via AWS Cognito** and an **event-driven API Gateway** architecture that scales horizontally. DynamoDB single-table design for sub-10ms reads.
 
-> Lambda + API Gateway + DynamoDB + Cognito + IaC
+> Lambda + API Gateway + DynamoDB + Cognito + JWT + CloudWatch
 
 ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
@@ -259,19 +283,22 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 <div align="center">
 
-| Role | Where | Impact |
-|:-----|:------|:-------|
-| **Amazon WoW 2026 Scholar** | Amazon | Selected for Women of the World program |
-| **McKinsey Forward** | McKinsey & Co | AI & Digital leadership program |
-| **Google Girl Hackathon** | Google | Team India representative |
-| **Smart India Hackathon** | Govt. of India | Top 90 nationally |
-| **2x Gold Medalist** | NPTEL | Top performer, national certification |
-| **Founder** | ByGrowth Academy | Zero to **1,000+ active users** — product, growth, eng |
-| **Chairperson** | Innovators Quest, VIT | Flagship tech fest — **500+ participants**, multi-track |
-| **Owner** | Gen Z Leadership Circle | Cross-campus community of student founders |
-| **Project Lead** | Lean In, VIT | Technical projects + mentorship for women in tech |
-| **Content Lead** | QFI Curriculum | ARIMA, GARCH, stochastic vol, options pricing |
-| **GCP Facilitator** | Google Cloud | **120+ labs**, **80+ badges** across cloud & ML |
+| Role | Where | When | Impact |
+|:-----|:------|:-----|:-------|
+| **FDE Manager, Gen AI** | Micro Turners Group | May 2026 – Present | AI/LLM systems across **15 plants** |
+| **Amazon WoW Scholar** | Amazon | Jun 2026 – Present | Selected for Women of the World program |
+| **McKinsey Forward** | McKinsey & Co | Jun 2025 – Present | AI & Digital, Network Level |
+| **Google Girl Hackathon** | Google | Feb – Apr 2025 | 3-stage global selection, Team India |
+| **GCP Arcade Facilitator** | Google Cloud | Mar – Jun 2025 | **120+ labs**, **80+ badges** across cloud & ML |
+| **Founder** | ByGrowth Academy | Jan 2025 – Mar 2026 | Zero to **1,000+ active users** |
+| **Chairperson** | Innovators Quest, VIT | Jan 2025 – Present | Flagship tech fest — **500+ participants** |
+| **Project Lead** | Lean In, VIT | Apr 2026 – Present | Technical projects + mentorship for women in tech |
+| **Owner** | Gen Z Leadership Circle | Mar 2026 – Present | Cross-campus community of student founders |
+| **Top 90** | Smart India Hackathon | 2024 | National-level hackathon |
+| **AIR 303** | VITEEE | 2023 | All India Rank 303 |
+| **2x Gold Medalist** | NPTEL | — | Top performer, national certification |
+| **NTSE Scholar** | NCERT | — | National Talent Search Examination |
+| **AI Fluency · Claude 101** | Anthropic | 2025 | AI certifications |
 
 </div>
 
