@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Waving banner — Tokyo Night gradient -->
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Swagata%20Banerjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Forward%20Deployed%20Engineering%20Manager%20%C2%B7%20Gen%20AI%20%C2%B7%20Founder&descAlignY=55&descSize=17&descColor=a9b1d6)](https://github.com/gitswagata1)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:e44d26,100:f7b733&height=220&section=header&text=Swagata%20Banerjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Forward%20Deployed%20Engineering%20Manager%20%C2%B7%20Gen%20AI%20%C2%B7%20Founder&descAlignY=55&descSize=17&descColor=f0e6d3)](https://github.com/gitswagata1)
 
 <!-- Animated typing titles -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems+for+Enterprise;LLM+Infrastructure+%C2%B7+RAG+Pipelines+%C2%B7+Agentic+AI;Shipping+AI+from+Prototype+to+Production;Open+Source+Enthusiast+%C2%B7+15-Plant+Deployment)](https://github.com/gitswagata1)
@@ -243,6 +243,6 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 <br/><br/>
 
 <!-- Footer wave — reversed Tokyo Night gradient -->
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer)](https://github.com/gitswagata1)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,50:e44d26,100:141e30&height=120&section=footer)](https://github.com/gitswagata1)
 
 </div>
