@@ -102,7 +102,7 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>BigQuery
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
+                <img src="https://skillicons.dev/icons?i=pbi" width="48" height="48" alt="Power BI" />
                 <br>Power BI
             </td>
             <td align="center" width="96">
@@ -116,23 +116,23 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>AWS
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48" height="48" alt="Lambda" />
+                <img src="https://skillicons.dev/icons?i=lambda" width="48" height="48" alt="Lambda" />
                 <br>Lambda
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" width="48" height="48" alt="DynamoDB" />
+                <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
                 <br>DynamoDB
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/amazoncognito/DD344C" width="48" height="48" alt="Cognito" />
+                <img src="https://skillicons.dev/icons?i=cognito" width="48" height="48" alt="Cognito" />
                 <br>Cognito
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/amazonapigateway/FF4F8B" width="48" height="48" alt="API Gateway" />
+                <img src="https://skillicons.dev/icons?i=apigateway" width="48" height="48" alt="API Gateway" />
                 <br>API Gateway
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" width="48" height="48" alt="CloudWatch" />
+                <img src="https://skillicons.dev/icons?i=cloudwatch" width="48" height="48" alt="CloudWatch" />
                 <br>CloudWatch
             </td>
             <td align="center" width="96">
@@ -162,7 +162,7 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>PostgreSQL
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" />
+                <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" />
                 <br>OpenAI
             </td>
             <td align="center" width="96">
@@ -244,7 +244,7 @@ Manufacturing-intelligence dashboard with an **embedded LLM copilot**, live **SA
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/LATENCY-<10ms-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/LATENCY-%3C10ms-FF9900?style=flat-square" />
 <a href="https://github.com/gitswagata1/1per-Better-Everyday-with-sb/actions"><img src="https://img.shields.io/github/actions/workflow/status/gitswagata1/1per-Better-Everyday-with-sb/ci.yml?style=flat-square&label=CI" /></a>
 <a href="https://v0-1perbettereveryday.vercel.app"><img src="https://img.shields.io/badge/DEMO-Live-6C63FF?style=flat-square" /></a>
 </p>
