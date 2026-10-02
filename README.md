@@ -90,12 +90,8 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>NLP
             </td>
             <td align="center" width="96">
-                <img src="https://img.shields.io/badge/Prompt_Eng-A855F7?style=flat&logoColor=white" width="48" height="48" alt="Prompt Engineering" />
-                <br>Prompt Eng
-            </td>
-            <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gemini.svg" width="48" height="48" alt="Gemini API" />
-                <br>Gemini API
+                <img src="https://img.shields.io/badge/Harness_Eng-A855F7?style=flat&logoColor=white" width="48" height="48" alt="Harness Engineering" />
+                <br>Harness Eng
             </td>
             <td align="center" width="96">
                 <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" />
