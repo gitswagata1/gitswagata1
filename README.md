@@ -312,16 +312,6 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 ---
 
-## Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/A855F7/gitswagata1" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
-
 ## Currently Building
 
 <div align="center">
