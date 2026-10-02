@@ -197,7 +197,7 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 ## Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=gitswagata1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4&rank=-C,-B" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=gitswagata1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -211,7 +211,7 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph-psi.vercel.app/graph?username=gitswagata1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=ffffff&area=true&area_color=70a5fd" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-sandy.vercel.app/graph?username=gitswagata1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=ffffff&area=true&area_color=70a5fd" width="95%" alt="Activity Graph" />
 </div>
 
 ---
