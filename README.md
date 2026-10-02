@@ -28,17 +28,19 @@
 
 ## About Me
 
-**Forward Deployed Engineering Manager, Gen AI** — shipping AI/LLM systems end-to-end across a **15-plant manufacturing group**
+*I didn't choose between building, designing, and leading. I decided to be all three.*
 
-**Founded ByGrowth Academy** — scaled from zero to **1,000+ active users**
+Hi! I'm Swagata Banerjee, a Computer Science Engineering student at VIT Vellore who genuinely loves the full stack of bringing ideas to life: the logic behind the system, the empathy behind the interface, and the vision that holds a team together.
 
-**Amazon WoW '26** · **McKinsey Forward** · **Google Girl Hackathon Team India** · **SIH Top 90** · **2x NPTEL Gold** · **NTSE Scholar**
+That's led me further than I expected. I grew from a core member to Chairperson of Innovators Quest, Founded an EdTech startup, took it from zero to 1000+ active users. Beyond that: Project Lead at Lean In, Manager at Bangalore Leadership Circle, Forward Champion at McKinsey, and an intern FDE in the automotive sector. Each role added a layer of sharper thinking, cleaner communication, and faster execution.
 
-**Google Cloud Certified** — 120+ labs, 80+ badges across cloud & ML
+Technically, I work across Python, C++, and TypeScript, and I've gone deep on AI, BigQuery, and Kubernetes through 120+ Google Cloud labs. My foundation isn't just functional code, it's systems thinking applied to real constraints.
 
-**B.Tech CSE @ VIT Vellore** (2023–27) · VITEEE AIR 303
+Design thinking is how I'm wired. Figma is my thinking space, Agile is my operating model, and the intersection of user insight, technical feasibility, and stakeholder trust is where I do my best work.
 
-Deep focus on **on-prem LLM deployment**, **agentic multi-agent workflows**, and **RAG pipelines**
+The credential I'm most proud of isn't on any title, position, or certificate. It's that I show up, figure it out, and leave every project and team better than I found it.
+
+I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're building in that space, I'd genuinely love to talk. **[Let's Connect!](https://linkedin.com/in/theswagata1)**
 
 <br/>
 
