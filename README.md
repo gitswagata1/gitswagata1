@@ -86,7 +86,7 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>Gemini
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png" width="48" height="48" alt="LangChain" />
+                <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
                 <br>LangChain
             </td>
             <td align="center" width="96">
@@ -162,7 +162,7 @@ Technically, I work across Python, C++, JavaScript, and TypeScript — building 
                 <br>DynamoDB
             </td>
             <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/cloudwatch/FF4F8B" width="48" height="48" alt="CloudWatch" />
+                <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" width="48" height="48" alt="CloudWatch" />
                 <br>CloudWatch
             </td>
             <td align="center" width="96">
