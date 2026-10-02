@@ -290,7 +290,7 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 </table>
 
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitswagata1&theme=github_dark" alt="Contribution Graph" width="100%" />
+<img src="https://ghchart.rshah.org/A855F7/gitswagata1" alt="Contribution Graph" width="100%" />
 
 <br/>
 
