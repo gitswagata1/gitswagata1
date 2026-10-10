@@ -51,7 +51,7 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
 <div align="center">
 
 <!-- GitHub Stats + Streak side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&include_all_commits=true&count_private=true&hide_rank=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=GitHub+Stats+%E2%80%A2+A%2B" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=e44d26&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=545d6e" width="49%" alt="Streak Stats" />
 
 <br/><br/>
