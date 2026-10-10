@@ -56,6 +56,11 @@ I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're 
 
 <br/><br/>
 
+<!-- GitHub Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=gitswagata1&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=5" width="98%" alt="Trophies" />
+
+<br/><br/>
+
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswagata1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=8" width="40%" alt="Top Languages" />
 
