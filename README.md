@@ -46,12 +46,12 @@ Currently exploring roles in **FDE, Product Engineering, and SDE**. **[Let's con
 
 <!-- GitHub Stats + Streak side by side -->
 <img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=e44d26&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=545d6e" width="49%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=e44d26&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=545d6e" width="49%" alt="Streak Stats" />
 
 <br/><br/>
 
 <!-- GitHub Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=gitswagata1&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=5" width="98%" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=gitswagata1&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=5&rank=-?" width="98%" alt="Trophies" />
 
 <br/><br/>
 
@@ -61,7 +61,7 @@ Currently exploring roles in **FDE, Product Engineering, and SDE**. **[Let's con
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswagata1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=e44d26&area=true&area_color=1a1b27" width="98%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswagata1&bg_color=0d1117&color=70a5fd&line=bf91f3&point=e44d26&area=true&area_color=1a1b27&hide_border=true" width="98%" alt="Contribution Graph" />
 
 </div>
 
