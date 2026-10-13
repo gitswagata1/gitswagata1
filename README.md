@@ -28,19 +28,13 @@
 
 ## About Me
 
-*I didn't choose between building, designing, and leading. I decided to be all three.*
+CSE @ VIT Vellore · **FDE @ Automotive** · **AI & Digital @ McKinsey** · **Chairperson @ Innovators Quest**
 
-Hi! I'm Swagata Banerjee, a Computer Science Engineering student at VIT Vellore who genuinely loves the full stack of bringing ideas to life: the logic behind the system, the empathy behind the interface, and the vision that holds a team together.
+I build and ship AI-powered products — from a **15-plant manufacturing intelligence platform** to an **EdTech startup with 1000+ users**. I work across **Python, TypeScript, and C++**, with deep hands-on experience in **LLMs, RAG pipelines, AWS serverless, and Kubernetes**.
 
-That's led me further than I expected. I grew from a core member to Chairperson of Innovators Quest, Founded an EdTech startup, took it from zero to 1000+ active users. Beyond that: Project Lead at Lean In, Manager at Bangalore Leadership Circle, Forward Champion at McKinsey, and an intern FDE in the automotive sector. Each role added a layer of sharper thinking, cleaner communication, and faster execution.
+**Google Team India Hackathon '25** · **SIH Top 90 '24** · **120+ Google Cloud Labs**
 
-Technically, I work across Python, C++, and TypeScript, and I've gone deep on AI, BigQuery, and Kubernetes through 120+ Google Cloud labs. My foundation isn't just functional code, it's systems thinking applied to real constraints.
-
-Design thinking is how I'm wired. Figma is my thinking space, Agile is my operating model, and the intersection of user insight, technical feasibility, and stakeholder trust is where I do my best work.
-
-The credential I'm most proud of isn't on any title, position, or certificate. It's that I show up, figure it out, and leave every project and team better than I found it.
-
-I'm actively exploring roles in **FDE, Product Engineering and SDE**. If you're building in that space, I'd genuinely love to talk. **[Let's Connect!](https://linkedin.com/in/theswagata1)**
+Currently exploring roles in **FDE, Product Engineering, and SDE**. **[Let's connect!](https://linkedin.com/in/theswagata1)**
 
 ---
 
