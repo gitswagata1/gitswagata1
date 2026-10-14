@@ -1,31 +1,25 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  GitHub Profile README — Swagata Banerjee (@gitswagata1)                  -->
-<!--  Theme: Tokyo Night · Minimalist Dark                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- GitHub Profile README — Swagata Banerjee (@gitswagata1) -->
+<!-- Theme: Tokyo Night · Minimalist Dark -->
 
-<!-- ─── SECTION 1 · DYNAMIC HEADER ──────────────────────────────────────────── -->
+<!-- ─── HEADER ──────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<!-- Waving banner — Tokyo Night gradient -->
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:e44d26,100:f7b733&height=220&section=header&text=Swagata%20Banerjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Forward%20Deployed%20Engineering%20Manager%20%C2%B7%20Gen%20AI%20%C2%B7%20Founder&descAlignY=55&descSize=17&descColor=f0e6d3)](https://github.com/gitswagata1)
 
-<!-- Animated typing titles -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems+for+Enterprise;LLM+Infrastructure+%C2%B7+RAG+Pipelines+%C2%B7+Agentic+AI;Shipping+AI+from+Prototype+to+Production;Open+Source+Enthusiast+%C2%B7+15-Plant+Deployment)](https://github.com/gitswagata1)
 
 <br/>
 
-<!-- Social links -->
 <a href="https://sb-website-3-d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bf91f3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
 
 </div>
 
 ---
 
-<!-- ─── SECTION 2 · ABOUT ME + GAMIFIED STATS DASHBOARD ────────────────────── -->
+<!-- ─── ABOUT ME ─────────────────────────────────────────────────────────────── -->
 
 ## About Me
 
@@ -44,248 +38,100 @@ Currently exploring roles in **FDE, Product Engineering, and SDE** — **[Let's 
 
 ---
 
-<!-- ─── TOTAL CONTRIBUTION DASHBOARD ────────────────────────────────────────── -->
+<!-- ─── CONTRIBUTIONS ────────────────────────────────────────────────────────── -->
 
 ## Total Contributions
 
 <div align="center">
 
-<!-- GitHub Stats + Streak side by side -->
 <img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=e44d26&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=545d6e" width="49%" alt="Streak Stats" />
 
 <br/><br/>
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswagata1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=8" width="40%" alt="Top Languages" />
-
 
 </div>
 
 ---
 
-<!-- ─── SECTION 3 · TECH STACK MATRIX ──────────────────────────────────────── -->
+<!-- ─── TECH STACK ───────────────────────────────────────────────────────────── -->
 
 ## My Favorite Tools and Technologies
 
 <div align="center">
-    <table align="center">
-        <tr>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-                <br>Python
-            </td>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-                <br>C++
-            </td>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-                <br>JavaScript
-            </td>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
-                <br>TypeScript
-            </td>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-                <br>React
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-                <br>Node.js
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-                <br>HTML
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-                <br>CSS
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-                <br>PyTorch
-            </td>
-            <td align="center" width="96">
-                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" />
-                <br>HuggingFace
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/langchain/65C3AB" width="48" height="48" alt="LangChain" />
-                <br>LangChain
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-                <br>Bash
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" />
-                <br>DuckDB
-            </td>
-            <td align="center" width="96">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" width="48" height="48" alt="Power BI" />
-                <br>Power BI
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" />
-                <br>Jupyter
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-                <br>Figma
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
-                <br>AWS
-            </td>
-            <td align="center" width="96">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" width="48" height="48" alt="Lambda" />
-                <br>Lambda
-            </td>
-            <td align="center" width="96">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
-                <br>DynamoDB
-            </td>
-            <td align="center" width="96">
-                <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" width="48" height="48" alt="Cognito" />
-                <br>Cognito
-            </td>
-            <td align="center" width="96">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" width="48" height="48" alt="API Gateway" />
-                <br>API Gateway
-            </td>
-            <td align="center" width="96">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" width="48" height="48" alt="CloudWatch" />
-                <br>CloudWatch
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-                <br>GCP
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-                <br>Kubernetes
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-                <br>Docker
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-                <br>Git
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-                <br>PostgreSQL
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-                <br>Supabase
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" height="48" alt="SAP" />
-                <br>SAP
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-                <br>VS Code
-            </td>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-                <br>GitHub
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Vertex AI" />
-                <br>Vertex AI
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-                <br>Next.js
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-                <br>Tailwind
-            </td>
-            <td align="center" width="96">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="48" height="48" alt="shadcn/ui" />
-                <br>shadcn/ui
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion" />
-                <br>Framer
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
-                <br>Streamlit
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly" />
-                <br>Plotly
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-                <br>Firebase
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-                <br>Vercel
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-                <br>Actions
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="pnpm" />
-                <br>pnpm
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/zod/3E67B1" width="48" height="48" alt="Zod" />
-                <br>Zod
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="48" height="48" alt="PWA" />
-                <br>PWA
-            </td>
-            <td align="center" width="96">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" width="48" height="48" alt="ESLint" />
-                <br>ESLint
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="48" height="48" alt="W&B" />
-                <br>W&B
-            </td>
-            <td align="center" width="96">
-                <img src="https://avatars.githubusercontent.com/u/24030498?s=48&v=4" width="48" height="48" alt="Recharts" />
-                <br>Recharts
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="48" height="48" alt="ffmpeg" />
-                <br>ffmpeg
-            </td>
-        </tr>
-    </table>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /><br>Python</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" /><br>C++</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" /><br>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
+<td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" /><br>HuggingFace</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/65C3AB" width="48" height="48" alt="LangChain" /><br>LangChain</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" /><br>DuckDB</td>
+<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" width="48" height="48" alt="Power BI" /><br>Power BI</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" /><br>Jupyter</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" /><br>AWS</td>
+<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" width="48" height="48" alt="Lambda" /><br>Lambda</td>
+<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" /><br>DynamoDB</td>
+<td align="center" width="96"><img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" width="48" height="48" alt="Cognito" /><br>Cognito</td>
+<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" width="48" height="48" alt="API Gateway" /><br>API Gateway</td>
+<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" width="48" height="48" alt="CloudWatch" /><br>CloudWatch</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br>GCP</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>Kubernetes</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br>Supabase</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" height="48" alt="SAP" /><br>SAP</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Vertex AI" /><br>Vertex AI</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind</td>
+<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="48" height="48" alt="shadcn/ui" /><br>shadcn/ui</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion" /><br>Framer</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" /><br>Streamlit</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly" /><br>Plotly</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>Actions</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="pnpm" /><br>pnpm</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/zod/3E67B1" width="48" height="48" alt="Zod" /><br>Zod</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="48" height="48" alt="PWA" /><br>PWA</td>
+<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" width="48" height="48" alt="ESLint" /><br>ESLint</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="48" height="48" alt="W&B" /><br>W&B</td>
+<td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/24030498?s=48&v=4" width="48" height="48" alt="Recharts" /><br>Recharts</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/ffmpeg/007808" width="48" height="48" alt="ffmpeg" /><br>ffmpeg</td>
+</tr>
+</table>
 </div>
 
 ---
 
-<!-- ─── SECTION 4 · FEATURED PROJECTS (GAMIFIED CARDS) ─────────────────────── -->
+<!-- ─── FEATURED PROJECTS ────────────────────────────────────────────────────── -->
 
 ## Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 <h3 align="center">MT Central Intelligence Platform</h3>
@@ -303,7 +149,6 @@ Manufacturing-intelligence dashboard with an **embedded LLM copilot**, live **SA
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/gitswagata1/bridgeup">BridgeUp</a></h3>
@@ -321,10 +166,8 @@ Manufacturing-intelligence dashboard with an **embedded LLM copilot**, live **SA
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/gitswagata1/1per-Better-Everyday-with-sb">1% Better Everyday</a></h3>
@@ -343,7 +186,6 @@ Serverless habits platform on **AWS Lambda + DynamoDB** with **JWT auth via Cogn
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/gitswagata1/satvic-ai-dubbing">Satvic AI Dubbing</a></h3>
@@ -360,18 +202,20 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 ![MIT](https://img.shields.io/badge/-MIT-yellow?style=flat-square)
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-<!-- Contribution Snake — generated by .github/workflows/snake.yml -->
+<!-- ─── CONTRIBUTION SNAKE ───────────────────────────────────────────────────── -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/gitswagata1/gitswagata1/output/github-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
+
+<!-- ─── RECENT ACTIVITY ──────────────────────────────────────────────────────── -->
 
 ## Recent Activity
 
@@ -385,7 +229,7 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 ---
 
-<!-- ─── SECTION 6 · CONNECT & FOOTER ───────────────────────────────────────── -->
+<!-- ─── FOOTER ───────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
@@ -399,7 +243,6 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 <br/><br/>
 
-<!-- Footer wave — reversed Tokyo Night gradient -->
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,50:e44d26,100:141e30&height=120&section=footer)](https://github.com/gitswagata1)
 
 </div>
