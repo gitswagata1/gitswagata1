@@ -254,11 +254,11 @@ AI meeting intelligence — **record, transcribe, generate MOMs, extract tasks**
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/gitswagata1/satvic-ai-dubbing/issues/33#issuecomment-6164715746) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-2. 🗣 Commented on [#30](https://github.com/gitswagata1/oee-dashboard-a01/issues/30#issuecomment-6164712353) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
-3. 🗣 Commented on [#2](https://github.com/gitswagata1/1per-Better-Everyday-with-sb/issues/2#issuecomment-6164704911) in [gitswagata1/1per-Better-Everyday-with-sb](https://github.com/gitswagata1/1per-Better-Everyday-with-sb)
-4. ❗ Opened issue [#38](https://github.com/gitswagata1/satvic-ai-dubbing/issues/38) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-5. ℹ️ Labeled issue [#39](https://github.com/gitswagata1/satvic-ai-dubbing/issues/39) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+1. 🗣 Commented on [#32](https://github.com/gitswagata1/satvic-ai-dubbing/issues/32#issuecomment-6164714733) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+2. 🗣 Commented on [#20](https://github.com/gitswagata1/oee-dashboard-a01/issues/20#issuecomment-6164713436) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
+3. 🗣 Commented on [#7](https://github.com/gitswagata1/bridgeup/issues/7#issuecomment-6164709390) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
+4. 🗣 Commented on [#13](https://github.com/gitswagata1/bridgeup/issues/13#issuecomment-6164708456) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
+5. 🗣 Commented on [#12](https://github.com/gitswagata1/bridgeup/issues/12#issuecomment-6164706665) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
 <!--END_SECTION:activity-->
 
 ---
