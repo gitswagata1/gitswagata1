@@ -254,11 +254,11 @@ AI meeting intelligence — **record, transcribe, generate MOMs, extract tasks**
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/gitswagata1/AIGENDA/pull/29) in [gitswagata1/AIGENDA](https://github.com/gitswagata1/AIGENDA)
-2. 💪 Opened PR [#29](https://github.com/gitswagata1/AIGENDA/pull/29) in [gitswagata1/AIGENDA](https://github.com/gitswagata1/AIGENDA)
-3. 🎉 Merged PR [#28](https://github.com/gitswagata1/oee-dashboard-a01/pull/28) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
-4. 💪 Opened PR [#28](https://github.com/gitswagata1/oee-dashboard-a01/pull/28) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
-5. 🎉 Merged PR [#31](https://github.com/gitswagata1/satvic-ai-dubbing/pull/31) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+1. 🗣 Commented on [#33](https://github.com/gitswagata1/satvic-ai-dubbing/issues/33#issuecomment-6164715746) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+2. 🗣 Commented on [#30](https://github.com/gitswagata1/oee-dashboard-a01/issues/30#issuecomment-6164712353) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
+3. 🗣 Commented on [#2](https://github.com/gitswagata1/1per-Better-Everyday-with-sb/issues/2#issuecomment-6164704911) in [gitswagata1/1per-Better-Everyday-with-sb](https://github.com/gitswagata1/1per-Better-Everyday-with-sb)
+4. ❗ Opened issue [#38](https://github.com/gitswagata1/satvic-ai-dubbing/issues/38) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+5. ℹ️ Labeled issue [#39](https://github.com/gitswagata1/satvic-ai-dubbing/issues/39) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
 <!--END_SECTION:activity-->
 
 ---
