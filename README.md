@@ -50,18 +50,9 @@ Currently exploring roles in **FDE, Product Engineering, and SDE**. **[Let's con
 
 <br/><br/>
 
-<!-- GitHub Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=gitswagata1&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=5&rank=-?" width="98%" alt="Trophies" />
-
-<br/><br/>
-
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswagata1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=8" width="40%" alt="Top Languages" />
 
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitswagata1&bg_color=0d1117&color=70a5fd&line=bf91f3&point=e44d26&area=true&area_color=1a1b27&hide_border=true" width="98%" alt="Contribution Graph" />
 
 </div>
 
@@ -379,11 +370,11 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2](https://github.com/gitswagata1/momentum/issues/2) in [gitswagata1/momentum](https://github.com/gitswagata1/momentum)
-2. ℹ️ Labeled issue [#31](https://github.com/gitswagata1/oee-dashboard-a01/issues/31) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
-3. ℹ️ Labeled issue [#31](https://github.com/gitswagata1/oee-dashboard-a01/issues/31) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
-4. ❗ Opened issue [#31](https://github.com/gitswagata1/oee-dashboard-a01/issues/31) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
-5. ℹ️ Labeled issue [#30](https://github.com/gitswagata1/oee-dashboard-a01/issues/30) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
+1. 🎉 Merged PR [#29](https://github.com/gitswagata1/AIGENDA/pull/29) in [gitswagata1/AIGENDA](https://github.com/gitswagata1/AIGENDA)
+2. 💪 Opened PR [#29](https://github.com/gitswagata1/AIGENDA/pull/29) in [gitswagata1/AIGENDA](https://github.com/gitswagata1/AIGENDA)
+3. 🎉 Merged PR [#28](https://github.com/gitswagata1/oee-dashboard-a01/pull/28) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
+4. 💪 Opened PR [#28](https://github.com/gitswagata1/oee-dashboard-a01/pull/28) in [gitswagata1/oee-dashboard-a01](https://github.com/gitswagata1/oee-dashboard-a01)
+5. 🎉 Merged PR [#31](https://github.com/gitswagata1/satvic-ai-dubbing/pull/31) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
 <!--END_SECTION:activity-->
 
 ---
