@@ -203,6 +203,40 @@ AI dubbing pipeline: **Hindi to Telugu & Malayalam** in the creator's cloned voi
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/gitswagata1/mcp-audit">mcp-audit</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/npm-published-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/DEPS-0-brightgreen?style=flat-square" />
+</p>
+
+Security scanner for **MCP servers** — finds dangerous permissions, hardcoded secrets, and supply chain risks across Claude, Cursor, Windsurf, and VS Code configs. **One command, zero config, zero dependencies.**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-e44d26?style=flat-square)
+![MIT](https://img.shields.io/badge/-MIT-yellow?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/gitswagata1/momentum">MOMentum</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/LIVE-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Claude_%2B_Whisper-7C6CF6?style=flat-square" />
+</p>
+
+AI meeting intelligence — **record, transcribe, generate MOMs, extract tasks**, and track everything with auto-reminders via email and Telegram. FastAPI + vanilla SPA.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ---
