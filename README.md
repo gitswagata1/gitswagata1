@@ -20,6 +20,10 @@
 <a href="https://linkedin.com/in/theswagata1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:theswagata1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gitswagata1&style=for-the-badge&color=141e30&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 ---
@@ -28,13 +32,18 @@
 
 ## About Me
 
-CSE @ VIT Vellore · **FDE @ Automotive** · **AI & Digital @ McKinsey** · **Chairperson @ Innovators Quest**
+| | |
+|---|---|
+| **Role** | FDE @ Automotive · AI & Digital @ McKinsey · Chairperson @ Innovators Quest |
+| **Stack** | Python · TypeScript · C++ · LLMs · RAG Pipelines · AWS Serverless · Kubernetes |
+| **Impact** | 15-plant manufacturing intelligence platform · EdTech startup with 1000+ users |
+| **Education** | CSE @ VIT Vellore |
 
-I build and ship AI-powered products — from a **15-plant manufacturing intelligence platform** to an **EdTech startup with 1000+ users**. I work across **Python, TypeScript, and C++**, with deep hands-on experience in **LLMs, RAG pipelines, AWS serverless, and Kubernetes**.
+- Built and shipped AI-powered products end-to-end — from prototype to production at scale
+- Deep hands-on with **LLM infrastructure**, **agentic AI**, and **cloud-native architectures**
+- **Google Team India Hackathon '25** · **SIH Top 90 '24** · **120+ Google Cloud Labs**
 
-**Google Team India Hackathon '25** · **SIH Top 90 '24** · **120+ Google Cloud Labs**
-
-Currently exploring roles in **FDE, Product Engineering, and SDE**. **[Let's connect!](https://linkedin.com/in/theswagata1)**
+Currently exploring roles in **FDE, Product Engineering, and SDE** — **[Let's connect!](https://linkedin.com/in/theswagata1)**
 
 ---
 
