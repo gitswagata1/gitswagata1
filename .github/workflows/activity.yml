@@ -16,6 +16,10 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_AUTHOR_NAME: Swagata Banerjee
+          GIT_AUTHOR_EMAIL: theswagata1@gmail.com
+          GIT_COMMITTER_NAME: Swagata Banerjee
+          GIT_COMMITTER_EMAIL: theswagata1@gmail.com
         with:
           COMMIT_MSG: "chore: update README with recent activity"
           MAX_LINES: 5

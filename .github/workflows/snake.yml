@@ -25,5 +25,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake animation"
+          author: Swagata Banerjee <theswagata1@gmail.com>
+          committer: Swagata Banerjee <theswagata1@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
