@@ -38,21 +38,6 @@ Currently exploring roles in **FDE, Product Engineering, and SDE** — **[Let's 
 
 ---
 
-<!-- ─── CONTRIBUTIONS ────────────────────────────────────────────────────────── -->
-
-## Total Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gitswagata1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=gitswagata1&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=e44d26&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=545d6e" width="49%" alt="Streak Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitswagata1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=8" width="40%" alt="Top Languages" />
-
-</div>
-
 ---
 
 <!-- ─── TECH STACK ───────────────────────────────────────────────────────────── -->
