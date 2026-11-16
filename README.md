@@ -239,11 +239,11 @@ AI meeting intelligence — **record, transcribe, generate MOMs, extract tasks**
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gitswagata1/omnisync-ai/pull/3) in [gitswagata1/omnisync-ai](https://github.com/gitswagata1/omnisync-ai)
-2. 💪 Opened PR [#4](https://github.com/gitswagata1/omnisync-ai/pull/4) in [gitswagata1/omnisync-ai](https://github.com/gitswagata1/omnisync-ai)
-3. 💪 Opened PR [#3](https://github.com/gitswagata1/omnisync-ai/pull/3) in [gitswagata1/omnisync-ai](https://github.com/gitswagata1/omnisync-ai)
-4. 🎉 Merged PR [#2](https://github.com/gitswagata1/omnisync-ai/pull/2) in [gitswagata1/omnisync-ai](https://github.com/gitswagata1/omnisync-ai)
-5. 💪 Opened PR [#2](https://github.com/gitswagata1/omnisync-ai/pull/2) in [gitswagata1/omnisync-ai](https://github.com/gitswagata1/omnisync-ai)
+1. ℹ️ Labeled issue [#9](https://github.com/gitswagata1/gh-profile-stats/issues/9) in [gitswagata1/gh-profile-stats](https://github.com/gitswagata1/gh-profile-stats)
+2. ℹ️ Labeled issue [#9](https://github.com/gitswagata1/gh-profile-stats/issues/9) in [gitswagata1/gh-profile-stats](https://github.com/gitswagata1/gh-profile-stats)
+3. ❗ Opened issue [#9](https://github.com/gitswagata1/gh-profile-stats/issues/9) in [gitswagata1/gh-profile-stats](https://github.com/gitswagata1/gh-profile-stats)
+4. ℹ️ Labeled issue [#8](https://github.com/gitswagata1/gh-profile-stats/issues/8) in [gitswagata1/gh-profile-stats](https://github.com/gitswagata1/gh-profile-stats)
+5. ℹ️ Labeled issue [#8](https://github.com/gitswagata1/gh-profile-stats/issues/8) in [gitswagata1/gh-profile-stats](https://github.com/gitswagata1/gh-profile-stats)
 <!--END_SECTION:activity-->
 
 ---
