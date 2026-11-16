@@ -47,11 +47,11 @@ Currently exploring roles in **FDE, Product Engineering, and SDE** — **[Let's 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /><br>Python</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" /><br>C++</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" /><br>React</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br>C++</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
@@ -62,17 +62,17 @@ Currently exploring roles in **FDE, Product Engineering, and SDE** — **[Let's 
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/65C3AB" width="48" height="48" alt="LangChain" /><br>LangChain</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" /><br>DuckDB</td>
-<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" width="48" height="48" alt="Power BI" /><br>Power BI</td>
+<td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" /><br>Power BI</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" /><br>Jupyter</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
 </tr>
 <tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" /><br>AWS</td>
-<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" width="48" height="48" alt="Lambda" /><br>Lambda</td>
-<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" /><br>DynamoDB</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" /><br>AWS</td>
+<td align="center" width="96"><img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="48" height="48" alt="Lambda" /><br>Lambda</td>
+<td align="center" width="96"><img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" width="48" height="48" alt="DynamoDB" /><br>DynamoDB</td>
 <td align="center" width="96"><img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" width="48" height="48" alt="Cognito" /><br>Cognito</td>
-<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" width="48" height="48" alt="API Gateway" /><br>API Gateway</td>
-<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" width="48" height="48" alt="CloudWatch" /><br>CloudWatch</td>
+<td align="center" width="96"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/API-Gateway.svg" width="48" height="48" alt="API Gateway" /><br>API Gateway</td>
+<td align="center" width="96"><img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudWatch.svg" width="48" height="48" alt="CloudWatch" /><br>CloudWatch</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br>GCP</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>Kubernetes</td>
 </tr>
@@ -83,13 +83,13 @@ Currently exploring roles in **FDE, Product Engineering, and SDE** — **[Let's 
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br>Supabase</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" height="48" alt="SAP" /><br>SAP</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/github/8B949E" width="48" height="48" alt="GitHub" /><br>GitHub</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Vertex AI" /><br>Vertex AI</td>
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind</td>
-<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="48" height="48" alt="shadcn/ui" /><br>shadcn/ui</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/shadcnui/8B949E" width="48" height="48" alt="shadcn/ui" /><br>shadcn/ui</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion" /><br>Framer</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" /><br>Streamlit</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly" /><br>Plotly</td>
@@ -101,7 +101,7 @@ Currently exploring roles in **FDE, Product Engineering, and SDE** — **[Let's 
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="pnpm" /><br>pnpm</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/zod/3E67B1" width="48" height="48" alt="Zod" /><br>Zod</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="48" height="48" alt="PWA" /><br>PWA</td>
-<td align="center" width="96"><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint" width="48" height="48" alt="ESLint" /><br>ESLint</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/eslint/4B32C3" width="48" height="48" alt="ESLint" /><br>ESLint</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="48" height="48" alt="W&B" /><br>W&B</td>
 <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/24030498?s=48&v=4" width="48" height="48" alt="Recharts" /><br>Recharts</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/ffmpeg/007808" width="48" height="48" alt="ffmpeg" /><br>ffmpeg</td>
