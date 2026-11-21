@@ -239,11 +239,11 @@ AI meeting intelligence — **record, transcribe, generate MOMs, extract tasks**
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/gitswagata1/bridgeup/pull/44) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
-2. 🎉 Merged PR [#47](https://github.com/gitswagata1/satvic-ai-dubbing/pull/47) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
-3. 🎉 Merged PR [#2](https://github.com/gitswagata1/bearing-iq/pull/2) in [gitswagata1/bearing-iq](https://github.com/gitswagata1/bearing-iq)
-4. 💪 Opened PR [#44](https://github.com/gitswagata1/bridgeup/pull/44) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
-5. 💪 Opened PR [#47](https://github.com/gitswagata1/satvic-ai-dubbing/pull/47) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+1. 🚀 Published release [v1.0: Amazon ML Challenge 2026, Business Entity Resolution (Top 500)](https://github.com/gitswagata1/amazon-ml-challenge-2026-clover/releases/tag/v1.0) in [gitswagata1/amazon-ml-challenge-2026-clover](https://github.com/gitswagata1/amazon-ml-challenge-2026-clover)
+2. 🎉 Merged PR [#44](https://github.com/gitswagata1/bridgeup/pull/44) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
+3. 🎉 Merged PR [#47](https://github.com/gitswagata1/satvic-ai-dubbing/pull/47) in [gitswagata1/satvic-ai-dubbing](https://github.com/gitswagata1/satvic-ai-dubbing)
+4. 🎉 Merged PR [#2](https://github.com/gitswagata1/bearing-iq/pull/2) in [gitswagata1/bearing-iq](https://github.com/gitswagata1/bearing-iq)
+5. 💪 Opened PR [#44](https://github.com/gitswagata1/bridgeup/pull/44) in [gitswagata1/bridgeup](https://github.com/gitswagata1/bridgeup)
 <!--END_SECTION:activity-->
 
 ---
